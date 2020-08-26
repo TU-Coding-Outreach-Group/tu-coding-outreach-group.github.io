@@ -1,6 +1,6 @@
 layout: page
 title: "Getting Started"
-permalink: https://tu-coding-outreach-group.github.io/tutorials/getting-started
+permalink: https://tu-coding-outreach-group.github.io/Getting-Started
 
 
 # Learn to Code
