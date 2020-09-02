@@ -1,8 +1,3 @@
-layout: page
-title: "PAGE TITLE"
-permalink: /getting-started/tutorials/
-
-
 # Learn to Code
 
 Below are some online tutorials that you can use to teach yourself coding in various languages
