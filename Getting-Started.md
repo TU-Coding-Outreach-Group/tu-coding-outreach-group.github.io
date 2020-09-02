@@ -1,6 +1,6 @@
 layout: page
-title: "tutorials"
-permalink: /tutorials/
+title: "PAGE TITLE"
+permalink: /about/contact/
 
 
 # Learn to Code
