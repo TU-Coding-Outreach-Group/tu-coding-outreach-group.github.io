@@ -1,10 +1,3 @@
----
-layout: default
-title: Welcome
-nav_order: 1
-has_children: true
----
-
 # Welcome to the Temple University Coding Outreach Group (COG)
 
 This group is a resource for people in various fields, and at various training levels, who wish to strengthen their coding skills. Below are some of the resources and training we host.
