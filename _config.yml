@@ -1,5 +1,8 @@
 theme: jekyll-theme-cayman
 
+site_title: Temple University Coding Outreach Group (COG)
+# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
+
 topnav_title: COG
 # this appears on the top navigation bar next to the home button
 
