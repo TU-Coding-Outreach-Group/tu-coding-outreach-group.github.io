@@ -2,3 +2,17 @@ theme: jekyll-theme-cayman
 
 topnav_title: COG
 # this appears on the top navigation bar next to the home button
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      comments: true
+      # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
+      search: true
+      sidebar: home_sidebar
+      topnav: topnav
