@@ -26,6 +26,7 @@ and analyze your data
     - Comes pre-installed with pandas, numpy, and some other packages that are useful for data analysis 
 
 ## R
+- [Codeacademy Tutorial](https://www.codecademy.com/learn/learn-r)
 - [R for Data Scientists](https://r4ds.had.co.nz/)
 - [Cheatsheets for R](https://rstudio.com/resources/cheatsheets/)
     - Easy ways to use popular R packages
