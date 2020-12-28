@@ -48,3 +48,4 @@ and analyze your data
 - [Software Carpentry](https://www.software-carpentry.org/)
 - [COG Neuroimaging Tutorials](https://github.com/TU-Coding-Outreach-Group/Tutorials/blob/master/Neuroimaging.md)
 - [CSS (helpful for R Markdowns)](https://www.w3schools.com/css/default.asp)
+- [Jupyter notebook examples](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#social-data)
