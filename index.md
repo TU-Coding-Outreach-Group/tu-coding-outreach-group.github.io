@@ -11,6 +11,7 @@ COG "Office Hours" will be held on Tuesdays from 2-4pm during the Fall 2021 seme
 
 ## Tutorials
 [Learning to Code](https://github.com/TU-Coding-Outreach-Group/tu-coding-outreach-group.github.io/blob/master/tutorials.md)
+
 [Neuroimaging](https://github.com/TU-Coding-Outreach-Group/Tutorials/blob/master/Neuroimaging.md)
 
 ## Summer Workshops
