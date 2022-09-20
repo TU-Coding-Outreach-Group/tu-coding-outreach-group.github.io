@@ -29,7 +29,7 @@ Office hours are meant to serve as an open environment where people can come to 
 Workshops focus on a specific research skill or topic and aim to have participants actively involved. These workshops try to be as hands-on as possible with the goal of teaching new skills and techniques to people who already have some coding experience.
 
 ### [2022](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2022/blob/master/README.md)
-Topics: Jupyter Notebook, Git/Github, Psychopy, Neuroimaging in python, Data visualization in R, Representational similarity analysis, Using linux machines & Owlsnest HPC, BIDS/Heudiconv/fmriprep  
+Topics: Git/Github Pages, Data Wrangling in R, Data visualization in R, Neuroimaging in Python, PsychoPy, Representational similarity analysis in R, Natural Language Processing, Javascript Integration with Qualtrics 
 
 
 ### [2021](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2021/blob/master/README.md)
