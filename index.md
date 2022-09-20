@@ -6,11 +6,17 @@ layout: default
 
 This group is a resource for people in various fields, and at various training levels, who wish to strengthen their coding skills. Below are some of the resources and training we host. Since the founders of the group were based in psychology and neuroscience, much of the content covers those fields. But we hope the material is accessible to all. 
 
+## COG Board
+[Haroon Popal](mailto:haroon.popal@temple.edu)
+[Liz Beard](mailto:liz.beard@temple.edu)
+[Katie Jobson](mailto:katie.jobson@temple.edu)
+[Billy Mitchell](mailto:billy.mitchell@temple.edu)
+
 ## Contact
 The best way to contact our organization is via [slack](https://tucodingoutreachgroup.slack.com/) (workspace:tucodingoutreachgroup). Alternatively, we can be contacted via email at [coding.outreach.group@gmail.com](mailto:coding.outreach.group@gmail.com) 
 
 ## Office hours
-COG "Office Hours" will be held every **Wednesday from 1-3pm** during the Fall 2022 semester. You can either attend in-person (Weiss 645) or via [zoom] (https://temple.zoom.us/j/97809988629). 
+COG "Office Hours" will be held every **Wednesday from 1-3pm** during the Fall 2022 semester. You can either attend in-person (Weiss 645) or via [zoom](https://temple.zoom.us/j/97809988629). 
 
 Office hours are meant to serve as an open environment where people can come to work on personal coding and computational projects and get help from other attendees (as opposed to traditional office hours). If you are interested, please join the COG Google Group [link here](https://groups.google.com/forum/#!forum/coding-outreach-group/join)
 
