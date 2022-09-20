@@ -7,10 +7,10 @@ layout: default
 This group is a resource for people in various fields, and at various training levels, who wish to strengthen their coding skills. Below are some of the resources and training we host. Since the founders of the group were based in psychology and neuroscience, much of the content covers those fields. But we hope the material is accessible to all. 
 
 ## COG Board
-[Haroon Popal](mailto:haroon.popal@temple.edu)
-[Liz Beard](mailto:liz.beard@temple.edu)
-[Katie Jobson](mailto:katie.jobson@temple.edu)
-[Billy Mitchell](mailto:billy.mitchell@temple.edu)
+[Haroon Popal](mailto:haroon.popal@temple.edu)  
+[Liz Beard](mailto:liz.beard@temple.edu)  
+[Katie Jobson](mailto:katie.jobson@temple.edu)  
+[Billy Mitchell](mailto:billy.mitchell@temple.edu)  
 
 ## Contact
 The best way to contact our organization is via [slack](https://tucodingoutreachgroup.slack.com/) (workspace:tucodingoutreachgroup). Alternatively, we can be contacted via email at [coding.outreach.group@gmail.com](mailto:coding.outreach.group@gmail.com) 
