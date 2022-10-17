@@ -13,10 +13,10 @@ permalink: /
 <p style="text-align: justify;">"Office Hours" will be held every <b>Wednesday from 1-3pm</b> during the Fall 2022 semester. You can either attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/97809988629">zoom</a>.</p>
 
 <h1 style="text-align: center;">COG Board</h1>
-[<img src="/assets/images/HaroonPopal.png" alt="Haroon Popal" width="150"/>](https://hspopal.github.io/){: .btn }
-[<img src="/assets/images/LizBeard.jpg" alt="Liz Beard"  width="150"/>](https://www.fox.temple.edu/about-fox/directory/liz-beard/){: .btn }
-[<img src="/assets/images/KatieJobson.jpg" alt="Katie Jobson"  width="150"/>](https://kjobson-neuro.github.io/){: .btn }
-[<img src="/assets/images/BillyMitchell.jpg" alt="Billy Mitchell"  width="150"/>](https://wj-mitchell.github.io){: .btn }
+[<img src="/assets/images/HaroonPopal.png" alt="Haroon Popal" width="150"/>](https://hspopal.github.io/)
+[<img src="/assets/images/LizBeard.jpg" alt="Liz Beard"  width="150"/>](https://www.fox.temple.edu/about-fox/directory/liz-beard/)
+[<img src="/assets/images/KatieJobson.jpg" alt="Katie Jobson"  width="150"/>](https://kjobson-neuro.github.io/)
+[<img src="/assets/images/BillyMitchell.jpg" alt="Billy Mitchell"  width="150"/>](https://wj-mitchell.github.io)
 
 <h1 style="text-align: center;">Contact</h1>
 <p style="text-align: justify;">To contact the board, send us an email. To contact our 150+ member community, join our slack channel. To stay up to date, join our google groups. To enter our office hours, join our zoom room.</p>
