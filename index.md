@@ -10,13 +10,13 @@ permalink: /
 <p style="text-align: justify;">COG has primarily been a volunteer effort from graduate students in the Psychology department, but we want to expand to other departments both in the service and materials we generate but also in the members who are actively serving and generating those materials. While we are well-versed in R, Python, Matlab, Bash, Javascript, and SPSS as they've been used in Psychology & Neuroscience, we'd love new perspectives and tools to expand our knowledgebase and better serve our community.</p>
 
 <h2 style="text-align: center;">Office hours</h2>
-<p style="text-align: justify;">COG "Office Hours" will be held every **Wednesday from 1-3pm** during the Fall 2022 semester. You can either attend in-person (Weiss 645) or via [zoom](https://temple.zoom.us/j/97809988629).</p>
+<p style="text-align: justify;">"Office Hours" will be held every <b>Wednesday from 1-3pm</b> during the Fall 2022 semester. You can either attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/97809988629">zoom</a>.</p>
 
 <h2 style="text-align: center;">COG Board</h2>
-[<img src="/assets/images/HaroonPopal.png" alt="Haroon Popal" width="100"/>](https://hspopal.github.io/){: .btn }
-[<img src="/assets/images/LizBeard.jpg" alt="Liz Beard"  width="100"/>](https://www.fox.temple.edu/about-fox/directory/liz-beard/){: .btn }
-[<img src="/assets/images/KatieJobson.jpg" alt="Katie Jobson"  width="100"/>](https://kjobson-neuro.github.io/){: .btn }
-[<img src="/assets/images/BillyMitchell.jpg" alt="Billy Mitchell"  width="100"/>](https://wj-mitchell.github.io){: .btn }
+[<img src="/assets/images/HaroonPopal.png" alt="Haroon Popal" width="150"/>](https://hspopal.github.io/){: .btn }
+[<img src="/assets/images/LizBeard.jpg" alt="Liz Beard"  width="150"/>](https://www.fox.temple.edu/about-fox/directory/liz-beard/){: .btn }
+[<img src="/assets/images/KatieJobson.jpg" alt="Katie Jobson"  width="150"/>](https://kjobson-neuro.github.io/){: .btn }
+[<img src="/assets/images/BillyMitchell.jpg" alt="Billy Mitchell"  width="150"/>](https://wj-mitchell.github.io){: .btn }
 
 <h2 style="text-align: center;">Contact</h2>
 [<img src="/assets/images/slack_Color.png" alt="Join Our Slack" align="center" width="100"/>](https://tucodingoutreachgroup.slack.com/){: .btn }
