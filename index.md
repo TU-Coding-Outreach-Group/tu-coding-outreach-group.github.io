@@ -19,6 +19,7 @@ permalink: /
 [<img src="/assets/images/BillyMitchell.jpg" alt="Billy Mitchell"  width="150"/>](https://wj-mitchell.github.io){: .btn }
 
 <h1 style="text-align: center;">Contact</h1>
+<p style="text-align: justify;">To contact the board, send us an email. To contact our 150+ member community, join our slack channel. To stay up to date, join our google groups. To enter our office hours, join our zoom room.</p>
 [<img src="/assets/images/slack_Color.png" alt="Join Our Slack" align="center" width="100"/>](https://tucodingoutreachgroup.slack.com/){: .btn }
 [<img src="/assets/images/email_BW.png" alt="Email Us" align="center" width="100"/>](mailto:coding.outreach.group@gmail.com){: .btn }
 [<img src="/assets/images/zoom_Color.png" alt="Office Hour Zoom Room" align="center" width="100"/>](https://temple.zoom.us/j/97809988629){: .btn }
