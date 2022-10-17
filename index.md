@@ -20,7 +20,7 @@ COG "Office Hours" will be held every **Wednesday from 1-3pm** during the Fall 2
 [<img src="https://github.com/wj-mitchell/wj-mitchell.github.io/blob/main/assets/images/Profile.jpg" alt="Billy Mitchell"  width="100"/>](wj-mitchell.github.io)
 
 ## Contact
-[<img src="/assets/images/slack_Color.png" alt="Join Our Slack" align="center" width="100"/>](https://tucodingoutreachgroup.slack.com/)
+[<img src="/assets/images/slack_Color.png" alt="Join Our Slack" align="center" width="100"/>](https://tucodingoutreachgroup.slack.com/){: .btn }
 [<img src="/assets/images/email_BW.png" alt="Email Us" align="center" width="100"/>](mailto:coding.outreach.group@gmail.com){: .btn }
 [<img src="/assets/images/zoom_Color.png" alt="Office Hour Zoom Room" align="center" width="100"/>](https://temple.zoom.us/j/97809988629){: .btn }
 [<img src="/assets/images/groups_Color.png" alt="Join Our Google Groups" align="center" width="100"/>](https://groups.google.com/forum/#!forum/coding-outreach-group/join){: .btn }
