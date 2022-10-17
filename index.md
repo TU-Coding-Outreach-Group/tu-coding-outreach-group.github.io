@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to the Coding Outreach Group!
+title: Temple University Coding Outreach Group
 nav_order: 1
 has_children: false
 permalink: /
@@ -14,10 +14,25 @@ COG has primarily been a volunteer effort from graduate students in the Psycholo
 COG "Office Hours" will be held every **Wednesday from 1-3pm** during the Fall 2022 semester. You can either attend in-person (Weiss 645) or via [zoom](https://temple.zoom.us/j/97809988629). 
 
 ## COG Board
-[<img src="https://github.com/hspopal/hspopal.github.io/blob/main/assets/images/headshot.png" alt="Haroon Popal" width="100"/>](https://hspopal.github.io/)
-[Liz Beard](mailto:liz.beard@temple.edu)
-[<img src="https://github.com/kjobson-neuro/kjobson-neuro.github.io/blob/main/assets/images/me.jpg" alt="Katie Jobson"  width="100"/>](https://kjobson-neuro.github.io/)
-[<img src="https://github.com/wj-mitchell/wj-mitchell.github.io/blob/main/assets/images/Profile.jpg" alt="Billy Mitchell"  width="100"/>](wj-mitchell.github.io)
+<figure>
+[<img src="/assets/images/HaroonPopal.png" alt="Haroon Popal" width="100"/>](https://hspopal.github.io/){: .btn }
+<figcaption>*Haroon Popal*</figcaption>
+</figure>
+
+<figure>
+[<img src="/assets/images/LizBeard.png" alt="Liz Beard"  width="100"/>](https://www.fox.temple.edu/about-fox/directory/liz-beard/){: .btn }
+<figcaption>*Haroon Popal*</figcaption>
+</figure>
+
+<figure>
+[<img src="/assets/images/KatieJobson.png" alt="Katie Jobson"  width="100"/>](https://kjobson-neuro.github.io/){: .btn }
+<figcaption>*Katie Jobson*</figcaption>
+</figure>
+
+<figure>
+[<img src="/assets/images/BillyMitchell.png" alt="Billy Mitchell"  width="100"/>](https://wj-mitchell.github.io){: .btn }
+<figcaption>*Billy Mitchell*</figcaption>
+</figure>
 
 ## Contact
 [<img src="/assets/images/slack_Color.png" alt="Join Our Slack" align="center" width="100"/>](https://tucodingoutreachgroup.slack.com/){: .btn }
