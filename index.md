@@ -15,16 +15,12 @@ COG "Office Hours" will be held every **Wednesday from 1-3pm** during the Fall 2
 
 ## COG Board
 [<img src="/assets/images/HaroonPopal.png" alt="Haroon Popal" width="100"/>](https://hspopal.github.io/){: .btn }
-<figcaption>*Haroon Popal*</figcaption>
 
 [<img src="/assets/images/LizBeard.png" alt="Liz Beard"  width="100"/>](https://www.fox.temple.edu/about-fox/directory/liz-beard/){: .btn }
-<figcaption>*Haroon Popal*</figcaption>
 
 [<img src="/assets/images/KatieJobson.png" alt="Katie Jobson"  width="100"/>](https://kjobson-neuro.github.io/){: .btn }
-<figcaption>*Katie Jobson*</figcaption>
 
 [<img src="/assets/images/BillyMitchell.png" alt="Billy Mitchell"  width="100"/>](https://wj-mitchell.github.io){: .btn }
-<figcaption>*Billy Mitchell*</figcaption>
 
 ## Contact
 [<img src="/assets/images/slack_Color.png" alt="Join Our Slack" align="center" width="100"/>](https://tucodingoutreachgroup.slack.com/){: .btn }
