@@ -20,10 +20,20 @@ permalink: /
 
 <h1 style="text-align: center;">Contact</h1>
 <p style="text-align: center;">To contact the board, send us an email. To contact our 150+ member community, join our slack channel. To stay up to date, join our google groups. To enter our office hours, join our zoom room.</p>
-[<img src="/assets/images/slack_Color.png" alt="Join Our Slack" width="100"/>](https://tucodingoutreachgroup.slack.com/){: .btn }
-[<img src="/assets/images/email_BW.png" alt="Email Us" width="100"/>](mailto:coding.outreach.group@gmail.com){: .btn }
-[<img src="/assets/images/zoom_Color.png" alt="Office Hour Zoom Room" width="100"/>](https://temple.zoom.us/j/97809988629){: .btn }
-[<img src="/assets/images/groups_Color.png" alt="Join Our Google Groups" width="100"/>](https://groups.google.com/forum/#!forum/coding-outreach-group/join){: .btn }
+<div style="text-align: center;">
+  <a href="https://tucodingoutreachgroup.slack.com/"> 
+	<img src="/assets/images/slack_Color.png" alt="Join Our Slack" style="margin: 20px 20px 20px 20px;"  width="100"/>
+  </a>
+  <a href="mailto:coding.outreach.group@gmail.com"> 
+	<img src="/assets/images/email_BW.png" alt="Email Us" style="margin: 20px 20px 20px 20px;"  width="100"/>
+  </a>
+  <a href="https://temple.zoom.us/j/97809988629"> 
+	<img src="/assets/images/zoom_Color.png" alt="Office Hour Zoom Room" style="margin: 20px 20px 20px 20px;"  width="100"/>
+  </a>
+  <a href="https://groups.google.com/forum/#!forum/coding-outreach-group/join"> 
+	<img src="/assets/images/groups_Color.png" alt="Join Our Google Groups" style="margin: 20px 20px 20px 20px;"  width="100"/>
+  </a>
+</div>
 
 <h1 style="text-align: center;">Tutorials</h1>
 [Learning to Code](https://github.com/TU-Coding-Outreach-Group/tu-coding-outreach-group.github.io/blob/master/tutorials.md)
