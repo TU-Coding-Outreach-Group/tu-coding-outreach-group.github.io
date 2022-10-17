@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Welcome to the Coding Outreach Group!
 nav_order: 1
 has_children: false
 permalink: /
