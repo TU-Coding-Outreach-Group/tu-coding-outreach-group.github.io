@@ -16,16 +16,16 @@ permalink: /
 <h1 style="text-align: center;">COG Board</h1>
 <div style="text-align: center;">
    <a href="https://hspopal.github.io/"> 
-	<img src="/assets/images/HaroonPopal.png" alt="Haroon Popal" style="margin: 10px 50px 10px 50px;" width="150"/>
+	<img src="/assets/images/HaroonPopal.png" alt="Haroon Popal" style="margin: 10px 30px 10px 30px;" width="150"/>
    </a>
    <a href="https://www.fox.temple.edu/about-fox/directory/liz-beard/"> 
-	<img src="/assets/images/LizBeard.jpg" alt="Liz Beard" style="margin: 10px 50px 10px 50px;" width="150"/>
+	<img src="/assets/images/LizBeard.jpg" alt="Liz Beard" style="margin: 10px 30px 10px 30px;" width="150"/>
    </a>   
    <a href="https://kjobson-neuro.github.io/"> 
-	<img src="/assets/images/KatieJobson.jpg" alt="Katie Jobson" style="margin: 10px 50px 10px 50px;" width="150"/>
+	<img src="/assets/images/KatieJobson.jpg" alt="Katie Jobson" style="margin: 10px 30px 10px 30px;" width="150"/>
    </a>
    <a href="https://wj-mitchell.github.io"> 
-	<img src="/assets/images/BillyMitchell.jpg" alt="Billy Mitchell" style="margin: 10px 50px 10px 50px;" width="150"/>
+	<img src="/assets/images/BillyMitchell.jpg" alt="Billy Mitchell" style="margin: 10px 30px 10px 30px;" width="150"/>
    </a>
 </div>
 
