@@ -22,16 +22,16 @@ permalink: /
 <p style="text-align: center;">To contact the board, send us an email. To contact our 150+ member community, join our slack channel. To stay up to date, join our google groups. To enter our office hours, join our zoom room.</p>
 <div style="text-align: center;">
   <a href="https://tucodingoutreachgroup.slack.com/"> 
-	<img src="/assets/images/slack_Color.png" alt="Join Our Slack" align="middle" style="margin: 20px 20px 20px 20px;"  width="100"/>
+	<img src="/assets/images/slack_Color.png" alt="Join Our Slack" align="middle" style="margin: 10px 40px 10px 40px;"  width="100"/>
   </a>
   <a href="mailto:coding.outreach.group@gmail.com"> 
-	<img src="/assets/images/email_BW.png" alt="Email Us" align="middle" style="margin: 20px 20px 20px 20px;"  width="100"/>
+	<img src="/assets/images/email_BW.png" alt="Email Us" align="middle" style="margin: 10px 40px 10px 40px;"  width="100"/>
   </a>
   <a href="https://temple.zoom.us/j/97809988629"> 
-	<img src="/assets/images/zoom_Color.png" alt="Office Hour Zoom Room" align="middle" style="margin: 20px 20px 20px 20px;"  width="100"/>
+	<img src="/assets/images/zoom_Color.png" alt="Office Hour Zoom Room" align="middle" style="margin: 10px 40px 10px 40px;"  width="100"/>
   </a>
   <a href="https://groups.google.com/forum/#!forum/coding-outreach-group/join"> 
-	<img src="/assets/images/groups_Color.png" alt="Join Our Google Groups" align="middle" style="margin: 20px 20px 20px 20px;"  width="100"/>
+	<img src="/assets/images/groups_Color.png" alt="Join Our Google Groups" align="middle" style="margin: 10px 40px 10px 40px;"  width="100"/>
   </a>
 </div>
 
