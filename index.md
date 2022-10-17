@@ -15,8 +15,8 @@ COG has primarily been a volunteer effort from graduate students in the Psycholo
 [Billy Mitchell](mailto:billy.mitchell@temple.edu)  
 
 ## Contact
-[<img src="/assets/images/slack_Color.png" alt="Join Our Slack" width="100"/>](https://tucodingoutreachgroup.slack.com/)
-[<img src="/assets/images/email_BW.png" alt="Email Us" width="100"/>](mailto:coding.outreach.group@gmail.com) 
+[<img src="/assets/images/slack_Color.png" alt="Join Our Slack" align="center" width="100"/>](https://tucodingoutreachgroup.slack.com/){: .btn }
+[<img src="/assets/images/email_BW.png" alt="Email Us" align="center" width="100"/>](mailto:coding.outreach.group@gmail.com){: .btn }
 
 ## Office hours
 COG "Office Hours" will be held every **Wednesday from 1-3pm** during the Fall 2022 semester. You can either attend in-person (Weiss 645) or via [zoom](https://temple.zoom.us/j/97809988629). 
