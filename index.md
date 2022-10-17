@@ -8,6 +8,9 @@ The Coding Outreach Group (COG) is a student-led organization aiming to make com
   
 COG has primarily been a volunteer effort from graduate students in the Psychology department, but we want to expand to other departments both in the service and materials we generate but also in the members who are actively serving and generating those materials. While we are well-versed in R, Python, Matlab, Bash, Javascript, and SPSS as they've been used in Psychology & Neuroscience, we'd love new perspectives and tools to expand our knowledgebase and better serve our community. 
 
+## Office hours
+COG "Office Hours" will be held every **Wednesday from 1-3pm** during the Fall 2022 semester. You can either attend in-person (Weiss 645) or via [zoom](https://temple.zoom.us/j/97809988629). 
+
 ## COG Board
 [Haroon Popal](mailto:haroon.popal@temple.edu)  
 [Liz Beard](mailto:liz.beard@temple.edu)  
@@ -17,11 +20,8 @@ COG has primarily been a volunteer effort from graduate students in the Psycholo
 ## Contact
 [<img src="/assets/images/slack_Color.png" alt="Join Our Slack" align="center" width="100"/>](https://tucodingoutreachgroup.slack.com/){: .btn }
 [<img src="/assets/images/email_BW.png" alt="Email Us" align="center" width="100"/>](mailto:coding.outreach.group@gmail.com){: .btn }
-
-## Office hours
-COG "Office Hours" will be held every **Wednesday from 1-3pm** during the Fall 2022 semester. You can either attend in-person (Weiss 645) or via [zoom](https://temple.zoom.us/j/97809988629). 
-
-Office hours are meant to serve as an open environment where people can come to work on personal coding and computational projects and get help from other attendees (as opposed to traditional office hours). If you are interested, please join the COG Google Group [link here](https://groups.google.com/forum/#!forum/coding-outreach-group/join)
+[<img src="/assets/images/zoom_Color.png" alt="Office Hour Zoom Room" align="center" width="100"/>](https://temple.zoom.us/j/97809988629){: .btn }
+[<img src="/assets/images/groups_Color.png" alt="Join Our Google Groups" align="center" width="100"/>](https://groups.google.com/forum/#!forum/coding-outreach-group/join){: .btn }
 
 ## Tutorials
 [Learning to Code](https://github.com/TU-Coding-Outreach-Group/tu-coding-outreach-group.github.io/blob/master/tutorials.md)
