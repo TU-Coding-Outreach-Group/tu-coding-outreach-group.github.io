@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Learn To Code
-nav_order: 1
+nav_order: 2
 has_children: false
-permalink: /
 ---
 
 Below are some online tutorials that you can use to teach yourself coding in various languages

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Temple University Coding Outreach Group
+title: Temple University\n Coding Outreach Group
 nav_order: 1
 has_children: false
 permalink: /
