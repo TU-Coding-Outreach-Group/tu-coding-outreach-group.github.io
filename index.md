@@ -9,7 +9,7 @@ permalink: /
   
 <p style="text-align: justify;">COG has primarily been a volunteer effort from graduate students in the Psychology department, but we want to expand to other departments both in the service and materials we generate but also in the members who are actively serving and generating those materials. While we are well-versed in R, Python, Matlab, Bash, Javascript, and SPSS as they've been used in Psychology & Neuroscience, we'd love new perspectives and tools to expand our knowledgebase and better serve our community.</p>
 
-<h1 style="text-align: center;">Office hours</h1>
+<h1 style="text-align: center;">Office Hours</h1>
 <p style="text-align: center;">"Office Hours" are every <b>Wednesday from 1-3pm</b> during Fall 2022. </br>You can attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/97809988629">zoom</a>.</p>
 
 <h1 style="text-align: center;">COG Board</h1>
