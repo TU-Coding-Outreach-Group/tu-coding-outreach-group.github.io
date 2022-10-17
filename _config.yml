@@ -1,2 +1,12 @@
 Title: Temple University Coding Outreach group
 theme: jekyll-theme-minimal
+show_downloads: true
+theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+# aux_links:
+# aux_links_new_tab: true
+back_to_top: true
+back_to_top_text: "Back to top"
+last_edit_timestamp: true
