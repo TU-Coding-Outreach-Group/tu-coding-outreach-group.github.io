@@ -42,4 +42,3 @@ Topics: Jupyter Notebook, Git/Github, Psychopy, Neuroimaging in python, Data vis
 
 ### [2020](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020/blob/master/README.md)
 Topics: Jupyter Notebook, Git/Github, Using publicly available datasets, Plotting data in R, Psychopy, JavaScript and jsPsych, Neuroimaing in python, Representational similarity analysis
-
