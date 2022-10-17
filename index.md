@@ -14,12 +14,9 @@ COG has primarily been a volunteer effort from graduate students in the Psycholo
 COG "Office Hours" will be held every **Wednesday from 1-3pm** during the Fall 2022 semester. You can either attend in-person (Weiss 645) or via [zoom](https://temple.zoom.us/j/97809988629). 
 
 ## COG Board
-[<img src="/assets/images/HaroonPopal.png" alt="Haroon Popal" width="100"/>](https://hspopal.github.io/){: .btn }
-
-[<img src="/assets/images/LizBeard.jpg" alt="Liz Beard"  width="100"/>](https://www.fox.temple.edu/about-fox/directory/liz-beard/){: .btn }
-
-[<img src="/assets/images/KatieJobson.jpg" alt="Katie Jobson"  width="100"/>](https://kjobson-neuro.github.io/){: .btn }
-
+[<img src="/assets/images/HaroonPopal.png" alt="Haroon Popal" width="100"/>](https://hspopal.github.io/){: .btn } 
+[<img src="/assets/images/LizBeard.jpg" alt="Liz Beard"  width="100"/>](https://www.fox.temple.edu/about-fox/directory/liz-beard/){: .btn } 
+[<img src="/assets/images/KatieJobson.jpg" alt="Katie Jobson"  width="100"/>](https://kjobson-neuro.github.io/){: .btn } 
 [<img src="/assets/images/BillyMitchell.jpg" alt="Billy Mitchell"  width="100"/>](https://wj-mitchell.github.io){: .btn }
 
 ## Contact
