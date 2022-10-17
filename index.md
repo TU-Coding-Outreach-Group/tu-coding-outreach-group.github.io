@@ -14,25 +14,17 @@ COG has primarily been a volunteer effort from graduate students in the Psycholo
 COG "Office Hours" will be held every **Wednesday from 1-3pm** during the Fall 2022 semester. You can either attend in-person (Weiss 645) or via [zoom](https://temple.zoom.us/j/97809988629). 
 
 ## COG Board
-<figure>
 [<img src="/assets/images/HaroonPopal.png" alt="Haroon Popal" width="100"/>](https://hspopal.github.io/){: .btn }
 <figcaption>*Haroon Popal*</figcaption>
-</figure>
 
-<figure>
 [<img src="/assets/images/LizBeard.png" alt="Liz Beard"  width="100"/>](https://www.fox.temple.edu/about-fox/directory/liz-beard/){: .btn }
 <figcaption>*Haroon Popal*</figcaption>
-</figure>
 
-<figure>
 [<img src="/assets/images/KatieJobson.png" alt="Katie Jobson"  width="100"/>](https://kjobson-neuro.github.io/){: .btn }
 <figcaption>*Katie Jobson*</figcaption>
-</figure>
 
-<figure>
 [<img src="/assets/images/BillyMitchell.png" alt="Billy Mitchell"  width="100"/>](https://wj-mitchell.github.io){: .btn }
 <figcaption>*Billy Mitchell*</figcaption>
-</figure>
 
 ## Contact
 [<img src="/assets/images/slack_Color.png" alt="Join Our Slack" align="center" width="100"/>](https://tucodingoutreachgroup.slack.com/){: .btn }
