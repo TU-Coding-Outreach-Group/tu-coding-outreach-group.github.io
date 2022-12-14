@@ -48,9 +48,14 @@ permalink: /
 </div>
 
 <h1 style="text-align: center;">Tutorials</h1>
-[Learning to Code](https://github.com/TU-Coding-Outreach-Group/tu-coding-outreach-group.github.io/blob/master/tutorials.md)
-
-[Neuroimaging](https://github.com/TU-Coding-Outreach-Group/Tutorials/blob/master/Neuroimaging.md)
+<div style="text-align: center;">
+   <a href="https://github.com/TU-Coding-Outreach-Group/tu-coding-outreach-group.github.io/blob/master/tutorials.md"> 
+	<"Learning to Code">
+   </a>
+   <a href="https://github.com/TU-Coding-Outreach-Group/Tutorials/blob/master/Neuroimaging.md"> 
+	<"Neuroimaging">
+   </a>
+</div>
 
 <h1 style="text-align: center;">Summer Workshops</h1>
 <p style="text-align: justify;">Workshops focus on a specific research skill or topic and aim to have participants actively involved. These workshops try to be as hands-on as possible with the goal of teaching new skills and techniques to people who already have some coding experience.</p>
