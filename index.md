@@ -51,8 +51,8 @@ permalink: /
 <div style="text-align: center;">
    <a href="https://github.com/TU-Coding-Outreach-Group/tu-coding-outreach-group.github.io/blob/master/tutorials.md"> 
 	Learning to Code
-   </a>
-   </br>
+   </a>  
+       
    <a href="https://github.com/TU-Coding-Outreach-Group/Tutorials/blob/master/Neuroimaging.md"> 
 	Neuroimaging
    </a>
