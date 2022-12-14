@@ -50,10 +50,10 @@ permalink: /
 <h1 style="text-align: center;">Tutorials</h1>
 <div style="text-align: center;">
    <a href="https://github.com/TU-Coding-Outreach-Group/tu-coding-outreach-group.github.io/blob/master/tutorials.md"> 
-	<"Learning to Code">
+	Learning to Code
    </a>
    <a href="https://github.com/TU-Coding-Outreach-Group/Tutorials/blob/master/Neuroimaging.md"> 
-	<"Neuroimaging">
+	Neuroimaging
    </a>
 </div>
 
