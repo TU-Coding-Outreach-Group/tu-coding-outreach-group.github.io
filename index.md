@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Temple University</br> Coding Outreach Group</br> <img src="/assets/images/COG_White.png" alt="COG Logo" style="margin: 20px 20px 20px 20px;" width="150"/>
+title: <img src="/assets/images/COG_White.png" alt="COG Logo" style="margin: 20px 20px 20px 20px;" width="150"/></br> Temple University</br> Coding Outreach Group
 nav_order: 1
 has_children: false
 permalink: /
