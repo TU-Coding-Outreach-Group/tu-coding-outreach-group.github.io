@@ -21,7 +21,7 @@ permalink: /
 <h1 style="text-align: center;"><b>When We Fight, We Win</b></h1> 
 
 
-<p style="text-align: center;">You can attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/97809988629">zoom</a>.</p>
+<!-- <p style="text-align: center;">You can attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/97809988629">zoom</a>.</p> -->
 
 <h1 style="text-align: center;">COG Board</h1>
 <div style="text-align: center;">
