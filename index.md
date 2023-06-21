@@ -12,11 +12,11 @@ permalink: /
 
 <h1 style="text-align: center;">Summer Workshop Series 2023</h1>
 
-<p style="text-align: center;">Our hands-on summer workshop series is underway with tutorials every Thursday (01:00pm) between June 29th and August 17th. These workshops will be hosted exclusively on **<a href="https://temple.zoom.us/j/92129240531">zoom (ID: 921 292 405 31)</a>** and the materials you need to follow along can be accessed in the associated **<a href="https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023/blob/master/README.md">Github repository</a>.</p>**
+<p style="text-align: justify;">Our hands-on summer workshop series is underway with tutorials every Thursday (01:00pm) between June 29th and August 17th. These workshops will be hosted exclusively on <a href="https://temple.zoom.us/j/92129240531"><strong>zoom (ID: 921 292 405 31)</strong></a> and the materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023/blob/master/README.md"><strong>Github repository</strong></a>.</p>
 
 <h1 style="text-align: center;">Office Hours</h1>
 
-<p style="text-align: center;">Office Hours are held both in-person and virtually on a weekly basis during the school as a means for individuals to seek support and guidance for coding related questions that they've encountered. We pause office hours during the summer months, but those with questions are still encouraged to seek assistance from our <a href="https://tucodingoutreachgroup.slack.com/">slack community</a>.</p>
+<p style="text-align: justify;">Office Hours are held both in-person and virtually on a weekly basis during the school as a means for individuals to seek support and guidance for coding related questions that they've encountered. We pause office hours during the summer months, but those with questions are still encouraged to seek assistance from our <a href="https://tucodingoutreachgroup.slack.com/"><strong>slack community</strong></a>.</p>
 
 <!------------------ The message that we used when we were on strike; leaving it in the code in case admin gets dumb again --------------------------->
 
@@ -32,7 +32,7 @@ permalink: /
 
 <!-- The message we usually put up during the school year -->
 
-<!-- <p style="text-align: center;">You can attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/97809988629">zoom</a>.</p> -->
+<!-- <p style="text-align: center;">You can attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/97809988629"><strong>zoom</strong></a>.</p> -->
 
 <!-- ----------------------------------------------------- -->
 <h1 style="text-align: center;">COG Board</h1>
