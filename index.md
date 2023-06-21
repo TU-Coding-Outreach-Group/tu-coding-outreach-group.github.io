@@ -82,17 +82,17 @@ permalink: /
 <h1 style="text-align: center;">Summer Workshops</h1>
 <p style="text-align: justify;">Workshops focus on a specific research skill or topic and aim to have participants actively involved. These workshops try to be as hands-on as possible with the goal of teaching new skills and techniques to people who already have some coding experience.</p>
 
-### [2023](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023/blob/master/README.md)
+### **[2023](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023/blob/master/README.md)**
 Topics: GIMME, Intro to Machine Learning in Python, Intro to jsPsych, Building Functions & Iterating in R,  Intro to Item Response Theory, Text Analysis in R, Dyadic Analysis in R, Intro to SQL 
 
 
-### [2022](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2022/blob/master/README.md)
+### **[2022](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2022/blob/master/README.md)**
 Topics: Git/Github Pages, Data Wrangling in R, Data visualization in R, Neuroimaging in Python, PsychoPy, Representational similarity analysis in R, Natural Language Processing, Javascript Integration with Qualtrics 
 
 
-### [2021](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2021/blob/master/README.md)
+### **[2021](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2021/blob/master/README.md)**
 Topics: Jupyter Notebook, Git/Github, Psychopy, Neuroimaging in python, Data visualization in R, Representational similarity analysis, Using linux machines & Owlsnest HPC, BIDS/Heudiconv/fmriprep
 
 
-### [2020](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020/blob/master/README.md)
+### **[2020](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020/blob/master/README.md)**
 Topics: Jupyter Notebook, Git/Github, Using publicly available datasets, Plotting data in R, Psychopy, JavaScript and jsPsych, Neuroimaing in python, Representational similarity analysis
