@@ -1,0 +1,24 @@
+---
+---
+  
+  /* unvisited link */
+  a:link {
+    color: #374AD5;
+    text-decoration: none;
+  }
+  
+  
+  /* visited link */
+  a:visited {
+    color: #4B0082;
+    text-decoration: none;
+  }
+  
+  /* mouse over link */
+  a:hover { 
+    color: #116982;
+    background-color: #cfadad;
+    text-decoration: none;
+  }
+
+@import "jekyll-theme-cayman";
