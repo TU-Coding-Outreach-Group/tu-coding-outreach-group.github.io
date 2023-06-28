@@ -12,7 +12,7 @@ permalink: /
 
 <h1 style="text-align: center;">Summer Workshop Series 2023</h1>
 
-<p style="text-align: justify;">Our hands-on summer workshop series is underway with tutorials every Thursday (01:00pm) between June 29th and August 17th. These workshops will be hosted exclusively on <a href="https://temple.zoom.us/j/92129240531"><strong>zoom (ID: 921 292 405 31)</strong></a> and the materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023/blob/master/README.md"><strong>Github repository</strong></a>.</p>
+<p style="text-align: justify;">Our hands-on summer workshop series is underway with tutorials every Thursday (01:00pm) between June 29th and August 17th. These workshops will be hosted exclusively on <a href="https://temple.zoom.us/j/92129240531"><strong>zoom (ID: 921 292 405 31)</strong></a> and the materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023/blob/master/README.md"><strong>Github repository</strong></a>. If you're new to coding or having trouble navigating Github, consider checking out <a href="https://blog.hubspot.com/website/download-from-github"><strong>this tutorial on pulling files from repositories</strong></a>.</p>
 
 <h1 style="text-align: center;">Office Hours</h1>
 
