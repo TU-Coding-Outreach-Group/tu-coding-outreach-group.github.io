@@ -35,7 +35,23 @@ permalink: /
 <!-- <p style="text-align: center;">You can attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/97809988629"><strong>zoom</strong></a>.</p> -->
 
 <!-- ----------------------------------------------------- -->
-<h1 style="text-align: center;">COG Board</h1>
+<h1 style="text-align: center;">Current COG Board</h1>
+<div style="text-align: center;">   
+   <a href="https://kjobson-neuro.github.io/"> 
+	<img src="/assets/images/KatieJobson.jpg" alt="Katie Jobson" style="margin: 10px 15px 00px 15px;" width="150"/>
+   </a>
+   <a href="https://wj-mitchell.github.io"> 
+	<img src="/assets/images/BillyMitchell.jpg" alt="Billy Mitchell" style="margin: 10px 15px 00px 15px;" width="150"/>
+   </a>
+   <a href="https://hschmidt12.github.io/"> 
+	<img src="/assets/images/HelenSchmidt.png" alt="Helen Schmidt" style="margin: 10px 15px 00px 15px;" width="150"/>
+   </a>
+   <a href="https://www.researchgate.net/scientific-contributions/Steven-A-Martinez-2159311354"> 
+	<img src="/assets/images/StevenMartinez.jpg" alt="Steven Martinez" style="margin: 10px 15px 00px 15px;" width="150"/>
+   </a>
+</div>
+
+<h1 style="text-align: center;">Former COG Board</h1>
 <div style="text-align: center;">
    <a href="https://hspopal.github.io/"> 
 	<img src="/assets/images/HaroonPopal.png" alt="Haroon Popal" style="margin: 10px 15px 00px 15px;" width="150"/>
@@ -43,12 +59,6 @@ permalink: /
    <a href="https://www.fox.temple.edu/about-fox/directory/liz-beard/"> 
 	<img src="/assets/images/LizBeard.jpg" alt="Liz Beard" style="margin: 10px 15px 00px 15px;" width="150"/>
    </a>   
-   <a href="https://kjobson-neuro.github.io/"> 
-	<img src="/assets/images/KatieJobson.jpg" alt="Katie Jobson" style="margin: 10px 15px 00px 15px;" width="150"/>
-   </a>
-   <a href="https://wj-mitchell.github.io"> 
-	<img src="/assets/images/BillyMitchell.jpg" alt="Billy Mitchell" style="margin: 10px 15px 00px 15px;" width="150"/>
-   </a>
 </div>
 
 <h1 style="text-align: center;">Contact</h1>
