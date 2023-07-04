@@ -44,7 +44,7 @@ permalink: /
 	<img src="/assets/images/BillyMitchell.jpg" alt="Billy Mitchell" style="margin: 10px 15px 00px 15px;" width="150"/>
    </a>
    <a href="https://hschmidt12.github.io/"> 
-	<img src="/assets/images/HelenSchmidt.png" alt="Helen Schmidt" style="margin: 10px 15px 00px 15px;" width="150"/>
+	<img src="/assets/images/HelenSchmidt.jpg" alt="Helen Schmidt" style="margin: 10px 15px 00px 15px;" width="150"/>
    </a>
    <a href="https://www.researchgate.net/scientific-contributions/Steven-A-Martinez-2159311354"> 
 	<img src="/assets/images/StevenMartinez.jpg" alt="Steven Martinez" style="margin: 10px 15px 00px 15px;" width="150"/>
