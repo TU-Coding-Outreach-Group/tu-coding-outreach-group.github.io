@@ -51,7 +51,7 @@ permalink: /
    </a>
 </div>
 
-<h1 style="text-align: center;">Former COG Board</h1>
+<h1 style="text-align: center;">COG Founders</h1>
 <div style="text-align: center;">
    <a href="https://hspopal.github.io/"> 
 	<img src="/assets/images/HaroonPopal.png" alt="Haroon Popal" style="margin: 10px 15px 00px 15px;" width="150"/>
