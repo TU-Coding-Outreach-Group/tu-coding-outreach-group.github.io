@@ -76,6 +76,10 @@ permalink: /
   <a href="https://groups.google.com/forum/#!forum/coding-outreach-group/join"> 
 	<img src="/assets/images/groups_Color.png" alt="Join Our Google Groups" align="middle" style="margin: 10px 50px 10px 50px;"  width="100"/>
   </a>
+
+   <a href="https://www.youtube.com/channel/UCkTnWhGsF8eiLOPl2CHHeIA"> 
+	<img src="/assets/images/youtube_Color.png" alt="Subscribe to our Youtube Channel" align="middle" style="margin: 10px 50px 10px 50px;"  width="100"/>
+  </a>
 </div>
 
 <h1 style="text-align: center;">Tutorials</h1>
