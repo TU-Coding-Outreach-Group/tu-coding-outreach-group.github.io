@@ -5,6 +5,7 @@ nav_order: 1
 has_children: false
 permalink: /
 ---
+
 <div style="text-align: center;">
 	<img src="/assets/images/COG_Color.png" alt="COG Logo" style="margin: 0px 0px 0px 0px;" width="200"/>
 </div>
@@ -32,36 +33,20 @@ permalink: /
 
 <h1 style="text-align: center;">Introduction to Coding Bootcamp 2023</h1>
 
-<p style="text-align: justify;">Our intensive Annual 3-day Introduction to Coding bootcamp will be hosted from <strong>Tuesday August 22nd until Thursday August 24th, 2023</strong>. Over three days, we will be taking a shared dataset from organization to data wrangling to analysis and visualization using bash/shell, python, and R. The materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/intro-to-coding-2023"><strong>Github repository</strong></a>. This will be held from 10:00am - 03:30pm everyday and all are welcome. Just fill out our <a href="https://forms.gle/SfW1wa69g5y9u1z39"><strong>Intent to Attend</strong></a> form by August 18th. We ask that attendees intend to attend all three days since each subsequent day builds upon the previous days work. If you're new to coding or having trouble navigating Github, consider checking out <a href="https://blog.hubspot.com/website/download-from-github"><strong>this tutorial on pulling files from repositories</strong></a>.</p>
-
-<!-- <h1 style="text-align: center;">Summer Workshop Series 2023</h1>
-
-<p style="text-align: justify;">Our hands-on summer workshop series are nearly complete! Our last workshop on dyadic analysis in R will be hosted on Thursday August 10th at 01:00pm on <a href="https://temple.zoom.us/j/92129240531"><strong>zoom (ID: 921 292 405 31)</strong></a> and the materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023/blob/master/README.md"><strong>Github repository</strong></a>. If you're new to coding or having trouble navigating Github, consider checking out <a href="https://blog.hubspot.com/website/download-from-github"><strong>this tutorial on pulling files from repositories</strong></a>.</p> -->
-
-<!-- <p style="text-align: justify;">Our hands-on summer workshop series is underway with tutorials every Thursday (01:00pm) between June 29th and August 17th. These workshops will be hosted exclusively on <a href="https://temple.zoom.us/j/92129240531"><strong>zoom (ID: 921 292 405 31)</strong></a> and the materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023/blob/master/README.md"><strong>Github repository</strong></a>. If you're new to coding or having trouble navigating Github, consider checking out <a href="https://blog.hubspot.com/website/download-from-github"><strong>this tutorial on pulling files from repositories</strong></a>.</p> -->
+<div class="collapsible">
+  <button class="collapsible-btn">Collapse</button>
+  <div class="collapsible-content">
+    <p style="text-align: justify;">Our intensive Annual 3-day Introduction to Coding bootcamp will be hosted from <strong>Tuesday August 22nd until Thursday August 24th, 2023</strong>. Over three days, we will be taking a shared dataset from organization to data wrangling to analysis and visualization using bash/shell, python, and R. The materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/intro-to-coding-2023"><strong>Github repository</strong></a>. This will be held from 10:00am - 03:30pm everyday and all are welcome. Just fill out our <a href="https://forms.gle/SfW1wa69g5y9u1z39"><strong>Intent to Attend</strong></a> form by August 18th. We ask that attendees intend to attend all three days since each subsequent day builds upon the previous days work. If you're new to coding or having trouble navigating Github, consider checking out <a href="https://blog.hubspot.com/website/download-from-github"><strong>this tutorial on pulling files from repositories</strong></a>.</p> 
+   <script src="assets/script.js"></script>
+  </div>
+</div>
 
 <h1 style="text-align: center;">Office Hours</h1>
 
 <p style="text-align: justify;">Office Hours are held both in-person and virtually on a weekly basis during the school as a means for individuals to seek support and guidance for coding related questions that they've encountered. We pause office hours during the summer months, but those with questions are still encouraged to seek assistance from our <a href="https://tucodingoutreachgroup.slack.com/"><strong>slack community</strong></a>.</p>
 
-<!------------------ The message that we used when we were on strike; leaving it in the code in case admin gets dumb again --------------------------->
-
-<!-- <div style="text-align: center;">
-	<img src="/assets/images/TUGSA_Color.png" alt="When We Fight, We Win" align="middle" style="margin: 20px 20px 20px 20px;"  width="200"/>
-</div> -->
-
-<!-- <p style="text-align: center;"> On January 31st, 2023, the Temple University Graduate Students' Association announced an indefinite strike in response to stagnated negotiations with Temple's administration. Because COG has been founded, directed, and operated entirely by graduate students volunteering their labor due to a passion for community and education, TUGSA's mission is indivisibly tied to our mission. As such, all labor beyond that which is required for the fulfillment of any one individual's degree will cease until TUGSA wins their strike. This unfortuantely includes our weekly office hours. Until graduate students are adequately compensated for their labor, Temple is failing to fulfill it's promise to champion diversity, equity, and inclusion related issues. We look forward to resuming office hours and continuing to build our supportive, vibrant programming and research community once a fair contract has been reached. Please send an email to our <a href="mailto:union@tugsa.org"><i>executive board</i></a> or visit our website at <a href="https://tugsa.org">tugsa.org</a> to learn how you can show your support. Also, considering donating to our <a href="https://tugsa.betterworld.org/campaigns/tugsa-strike-fund">strike fund</a>.</p>
-
-<h1 style="text-align: center;"><b>When We Fight, We Win</b></h1>  -->
-
-<!-- -------------------------------------------------------------------------------------------------------------------------------------------------->
-
-<!-- The message we usually put up during the school year -->
-
-<!-- <p style="text-align: center;">You can attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/97809988629"><strong>zoom</strong></a>.</p> -->
-
-<!-- ----------------------------------------------------- -->
-<h1 style="text-align: center;">Current COG Board</h1>
+<h1 style="text-align: center;">COG Personnel</h1>
+<h2 style="text-align: center;">Current Board</h2>
 <div style="text-align: center;">   
    <a href="https://kjobson-neuro.github.io/"> 
 	<img src="/assets/images/KatieJobson.jpg" alt="Katie Jobson" style="margin: 10px 15px 00px 15px;" width="150"/>
@@ -77,7 +62,7 @@ permalink: /
    </a>
 </div>
 
-<h1 style="text-align: center;">COG Founders</h1>
+<h2 style="text-align: center;">Founders</h2>
 <div style="text-align: center;">
    <a href="https://hspopal.github.io/"> 
 	<img src="/assets/images/HaroonPopal.png" alt="Haroon Popal" style="margin: 10px 15px 00px 15px;" width="150"/>
@@ -87,7 +72,7 @@ permalink: /
    </a>   
 </div>
 
-<h1 style="text-align: center;">COG Contributors
+<h2 style="text-align: center;"> Contributors
 <style>
   .name-list {
     columns: 2;
@@ -98,7 +83,7 @@ permalink: /
   }
 
 </style>
-</h1>
+</h2>
 <body>
 
 <div class="name-list">
@@ -150,3 +135,30 @@ Topics: Jupyter Notebook, Git/Github, Psychopy, Neuroimaging in python, Data vis
 
 ### **[2020](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020/blob/master/README.md)**
 Topics: Jupyter Notebook, Git/Github, Using publicly available datasets, Plotting data in R, Psychopy, JavaScript and jsPsych, Neuroimaing in python, Representational similarity analysis
+
+<!-- TRASH -->
+
+<!-- <h1 style="text-align: center;">Summer Workshop Series 2023</h1>
+
+<p style="text-align: justify;">Our hands-on summer workshop series are nearly complete! Our last workshop on dyadic analysis in R will be hosted on Thursday August 10th at 01:00pm on <a href="https://temple.zoom.us/j/92129240531"><strong>zoom (ID: 921 292 405 31)</strong></a> and the materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023/blob/master/README.md"><strong>Github repository</strong></a>. If you're new to coding or having trouble navigating Github, consider checking out <a href="https://blog.hubspot.com/website/download-from-github"><strong>this tutorial on pulling files from repositories</strong></a>.</p> -->
+
+<!-- <p style="text-align: justify;">Our hands-on summer workshop series is underway with tutorials every Thursday (01:00pm) between June 29th and August 17th. These workshops will be hosted exclusively on <a href="https://temple.zoom.us/j/92129240531"><strong>zoom (ID: 921 292 405 31)</strong></a> and the materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023/blob/master/README.md"><strong>Github repository</strong></a>. If you're new to coding or having trouble navigating Github, consider checking out <a href="https://blog.hubspot.com/website/download-from-github"><strong>this tutorial on pulling files from repositories</strong></a>.</p> -->
+
+
+<!------------------ The message that we used when we were on strike; leaving it in the code in case admin gets dumb again --------------------------->
+
+<!-- <div style="text-align: center;">
+	<img src="/assets/images/TUGSA_Color.png" alt="When We Fight, We Win" align="middle" style="margin: 20px 20px 20px 20px;"  width="200"/>
+</div> -->
+
+<!-- <p style="text-align: center;"> On January 31st, 2023, the Temple University Graduate Students' Association announced an indefinite strike in response to stagnated negotiations with Temple's administration. Because COG has been founded, directed, and operated entirely by graduate students volunteering their labor due to a passion for community and education, TUGSA's mission is indivisibly tied to our mission. As such, all labor beyond that which is required for the fulfillment of any one individual's degree will cease until TUGSA wins their strike. This unfortuantely includes our weekly office hours. Until graduate students are adequately compensated for their labor, Temple is failing to fulfill it's promise to champion diversity, equity, and inclusion related issues. We look forward to resuming office hours and continuing to build our supportive, vibrant programming and research community once a fair contract has been reached. Please send an email to our <a href="mailto:union@tugsa.org"><i>executive board</i></a> or visit our website at <a href="https://tugsa.org">tugsa.org</a> to learn how you can show your support. Also, considering donating to our <a href="https://tugsa.betterworld.org/campaigns/tugsa-strike-fund">strike fund</a>.</p>
+
+<h1 style="text-align: center;"><b>When We Fight, We Win</b></h1>  -->
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<!-- The message we usually put up during the school year -->
+
+<!-- <p style="text-align: center;">You can attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/97809988629"><strong>zoom</strong></a>.</p> -->
+
+<!-- ----------------------------------------------------- -->
