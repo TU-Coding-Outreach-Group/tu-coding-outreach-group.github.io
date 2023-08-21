@@ -34,9 +34,9 @@ permalink: /
 
 <p style="text-align: justify;">Our intensive Annual 3-day Introduction to Coding bootcamp will be hosted from <strong>Tuesday August 22nd until Thursday August 24th, 2023</strong>. Over three days, we will be taking a shared dataset from organization to data wrangling to analysis and visualization using bash/shell, python, and R. The materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/intro-to-coding-2023"><strong>Github repository</strong></a>. This will be held from 10:00am - 03:30pm everyday and all are welcome. Just fill out our <a href="https://forms.gle/SfW1wa69g5y9u1z39"><strong>Intent to Attend</strong></a> form by August 18th. We ask that attendees intend to attend all three days since each subsequent day builds upon the previous days work. If you're new to coding or having trouble navigating Github, consider checking out <a href="https://blog.hubspot.com/website/download-from-github"><strong>this tutorial on pulling files from repositories</strong></a>.</p>
 
-<h1 style="text-align: center;">Summer Workshop Series 2023</h1>
+<!-- <h1 style="text-align: center;">Summer Workshop Series 2023</h1>
 
-<p style="text-align: justify;">Our hands-on summer workshop series are nearly complete! Our last workshop on dyadic analysis in R will be hosted on Thursday August 10th at 01:00pm on <a href="https://temple.zoom.us/j/92129240531"><strong>zoom (ID: 921 292 405 31)</strong></a> and the materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023/blob/master/README.md"><strong>Github repository</strong></a>. If you're new to coding or having trouble navigating Github, consider checking out <a href="https://blog.hubspot.com/website/download-from-github"><strong>this tutorial on pulling files from repositories</strong></a>.</p>
+<p style="text-align: justify;">Our hands-on summer workshop series are nearly complete! Our last workshop on dyadic analysis in R will be hosted on Thursday August 10th at 01:00pm on <a href="https://temple.zoom.us/j/92129240531"><strong>zoom (ID: 921 292 405 31)</strong></a> and the materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023/blob/master/README.md"><strong>Github repository</strong></a>. If you're new to coding or having trouble navigating Github, consider checking out <a href="https://blog.hubspot.com/website/download-from-github"><strong>this tutorial on pulling files from repositories</strong></a>.</p> -->
 
 <!-- <p style="text-align: justify;">Our hands-on summer workshop series is underway with tutorials every Thursday (01:00pm) between June 29th and August 17th. These workshops will be hosted exclusively on <a href="https://temple.zoom.us/j/92129240531"><strong>zoom (ID: 921 292 405 31)</strong></a> and the materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023/blob/master/README.md"><strong>Github repository</strong></a>. If you're new to coding or having trouble navigating Github, consider checking out <a href="https://blog.hubspot.com/website/download-from-github"><strong>this tutorial on pulling files from repositories</strong></a>.</p> -->
 
@@ -86,6 +86,41 @@ permalink: /
 	<img src="/assets/images/LizBeard.jpg" alt="Liz Beard" style="margin: 10px 15px 00px 15px;" width="150"/>
    </a>   
 </div>
+
+<h1 style="text-align: center;">COG Contributors
+<style>
+  .name-list {
+    columns: 2;
+    text-align: center;
+  }
+  .name-list ul {
+    list-style: none;
+  }
+
+</style>
+</h1>
+<body>
+
+<div class="name-list">
+  <ul>
+      <li>Susan Benear</li>
+      <li>Iva Brunec</li>
+      <li>Michelle Chiu</li>
+      <li>Jeff Dennison</li> 
+      <li>Camille Johnston</li>
+      <li>Celia Litovsty</li>  
+      <li>Matt Mattoni</li>    
+      <li>Kim Nguyen</li>
+      <li>Beth Smedley</li>
+      <li>Büşra Tanrıverdi</li>   
+      <li>Ginny Ulichney</li>
+      <li>Craig Williams</li>  
+      <li>Cristina Wilson</li>
+      <li>V.S. Vaidyanathan</li> 
+  </ul>
+</div>
+</body>
+
 
 <h1 style="text-align: center;">Tutorials</h1>
 <div style="text-align: center;">
