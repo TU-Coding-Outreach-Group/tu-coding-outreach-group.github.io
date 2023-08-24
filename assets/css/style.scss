@@ -1,6 +1,14 @@
 ---
 ---
-  
+/* Whole document: */
+body{
+  background-image: url("/assets/images/COG_Color.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 290px;
+  background-position: 5% 98%;
+  }
+
   /* unvisited link */
   a:link {
     color: #374AD5;
