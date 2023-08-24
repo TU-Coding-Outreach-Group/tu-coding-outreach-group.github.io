@@ -37,21 +37,14 @@ permalink: /
   </div>
 </div>   
 
-<h1 style="text-align: center;">Introduction to Coding Bootcamp 2023</h1>
-
-<div class="collapsible">
-  <button class="collapsible-btn">Collapse</button>
-  <div class="collapsible-content">
-    <p style="text-align: justify;">Our intensive Annual 3-day Introduction to Coding bootcamp will be hosted from <strong>Tuesday August 22nd until Thursday August 24th, 2023</strong>. Over three days, we will be taking a shared dataset from organization to data wrangling to analysis and visualization using bash/shell, python, and R. The materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/intro-to-coding-2023"><strong>Github repository</strong></a>. This will be held from 10:00am - 03:30pm everyday and all are welcome. Just fill out our <a href="https://forms.gle/SfW1wa69g5y9u1z39"><strong>Intent to Attend</strong></a> form by August 18th. We ask that attendees intend to attend all three days since each subsequent day builds upon the previous days work. If you're new to coding or having trouble navigating Github, consider checking out <a href="https://blog.hubspot.com/website/download-from-github"><strong>this tutorial on pulling files from repositories</strong></a>.</p> 
-   <script src="assets/script.js"></script>
-  </div>
-</div>
-
 <h1 style="text-align: center;">Office Hours</h1>
 <div class="collapsible">
   <button class="collapsible-btn">Collapse</button>
   <div class="collapsible-content">
-<p style="text-align: justify;">Office Hours are held both in-person and virtually on a weekly basis during the school as a means for individuals to seek support and guidance for coding related questions that they've encountered. We pause office hours during the summer months, but those with questions are still encouraged to seek assistance from our <a href="https://tucodingoutreachgroup.slack.com/"><strong>slack community</strong></a>.</p>
+
+  <p style="text-align: center;"></p>
+
+<p style="text-align: justify;">Office Hours are held both in-person and virtually on a weekly basis during the school as a means for individuals to seek support and guidance for coding related questions that they've encountered. You can attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/97809988629"><strong>zoom</strong></a>.</p>
    <script src="assets/script.js"></script>
   </div>
 </div>
@@ -147,7 +140,8 @@ Topics: Jupyter Notebook, Git/Github, Psychopy, Neuroimaging in python, Data vis
 ### **[2020](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020/blob/master/README.md)**
 Topics: Jupyter Notebook, Git/Github, Using publicly available datasets, Plotting data in R, Psychopy, JavaScript and jsPsych, Neuroimaing in python, Representational similarity analysis
 
-<!-- TRASH -->
+<!-- ------------------------ MESSAGE GRAVEYARD ----------------------------- -->
+<!-- ------------------------ SUMMER WORKSHOPS MESSAGE ----------------------------- -->
 
 <!-- <h1 style="text-align: center;">Summer Workshop Series 2023</h1>
 
@@ -156,7 +150,7 @@ Topics: Jupyter Notebook, Git/Github, Using publicly available datasets, Plottin
 <!-- <p style="text-align: justify;">Our hands-on summer workshop series is underway with tutorials every Thursday (01:00pm) between June 29th and August 17th. These workshops will be hosted exclusively on <a href="https://temple.zoom.us/j/92129240531"><strong>zoom (ID: 921 292 405 31)</strong></a> and the materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023/blob/master/README.md"><strong>Github repository</strong></a>. If you're new to coding or having trouble navigating Github, consider checking out <a href="https://blog.hubspot.com/website/download-from-github"><strong>this tutorial on pulling files from repositories</strong></a>.</p> -->
 
 
-<!------------------ The message that we used when we were on strike; leaving it in the code in case admin gets dumb again --------------------------->
+<!------------------ STRIKE MESSAGE ; leaving it in the code in case admin gets dumb again --------------------------->
 
 <!-- <div style="text-align: center;">
 	<img src="/assets/images/TUGSA_Color.png" alt="When We Fight, We Win" align="middle" style="margin: 20px 20px 20px 20px;"  width="200"/>
@@ -166,10 +160,18 @@ Topics: Jupyter Notebook, Git/Github, Using publicly available datasets, Plottin
 
 <h1 style="text-align: center;"><b>When We Fight, We Win</b></h1>  -->
 
-<!-- -------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- ------------------------ BOOTCAMP MESSAGE ----------------------------- -->
 
-<!-- The message we usually put up during the school year -->
+<!-- <h1 style="text-align: center;">Introduction to Coding Bootcamp 2023</h1>
 
-<!-- <p style="text-align: center;">You can attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/97809988629"><strong>zoom</strong></a>.</p> -->
+<div class="collapsible">
+  <button class="collapsible-btn">Collapse</button>
+  <div class="collapsible-content">
+    <p style="text-align: justify;">Our intensive Annual 3-day Introduction to Coding bootcamp will be hosted from <strong>Tuesday August 22nd until Thursday August 24th, 2023</strong>. Over three days, we will be taking a shared dataset from organization to data wrangling to analysis and visualization using bash/shell, python, and R. The materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/intro-to-coding-2023"><strong>Github repository</strong></a>. This will be held from 10:00am - 03:30pm everyday and all are welcome. Just fill out our <a href="https://forms.gle/SfW1wa69g5y9u1z39"><strong>Intent to Attend</strong></a> form by August 18th. We ask that attendees intend to attend all three days since each subsequent day builds upon the previous days work. If you're new to coding or having trouble navigating Github, consider checking out <a href="https://blog.hubspot.com/website/download-from-github"><strong>this tutorial on pulling files from repositories</strong></a>.</p> 
+   <script src="assets/script.js"></script>
+  </div>
+</div> -->
 
-<!-- ----------------------------------------------------- -->
+<!-- ------------------------ SUMMER OFFICE HOURS MESSAGE ----------------------------- -->
+
+<!-- <p style="text-align: justify;">Office Hours are held both in-person and virtually on a weekly basis during the school as a means for individuals to seek support and guidance for coding related questions that they've encountered. We pause office hours during the summer months, but those with questions are still encouraged to seek assistance from our <a href="https://tucodingoutreachgroup.slack.com/"><strong>slack community</strong></a>.</p> -->
