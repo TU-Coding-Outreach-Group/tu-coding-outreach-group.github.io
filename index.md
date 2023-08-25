@@ -37,7 +37,7 @@ permalink: /
 <h2 style="text-align: center;"> Contributors
 <style>
   .name-list {
-    columns: 3;
+    columns: 4;
     text-align: center;
   }
   .name-list ul {
@@ -82,6 +82,8 @@ permalink: /
    <a href="https://www.researchgate.net/scientific-contributions/Steven-A-Martinez-2159311354"> 
 	<img src="/assets/images/StevenMartinez.jpg" alt="Steven Martinez" style="margin: 10px 15px 00px 15px;" width="150"/>
    </a>
+   <h3 style="text-align: center;">Katie Jobson   Billy Mitchell   Helen Schmidt    Steven Martinez</h3>
+
 </div>
 
 <h2 style="text-align: center;">Founders</h2>
@@ -91,7 +93,8 @@ permalink: /
    </a>
    <a href="https://www.fox.temple.edu/about-fox/directory/liz-beard/"> 
 	<img src="/assets/images/LizBeard.jpg" alt="Liz Beard" style="margin: 10px 15px 00px 15px;" width="150"/>
-   </a>   
+   </a>
+   <h3 style="text-align: center;">Haroon Popal   Liz Beard</h3>   
 </div>
 
 <h1 style="text-align: center;">Tutorials</h1>
