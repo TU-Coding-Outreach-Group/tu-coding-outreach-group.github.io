@@ -91,10 +91,10 @@ permalink: /
 
 <div style="text-align: center;"> 
 
-   <h3 class="alt-text">Katie Jobson</h3>
-   <h3 class="alt-text">Billy Mitchell</h3>
-   <h3 class="alt-text">Helen Schmidt</h3>
-   <h3 class="alt-text">Steven Martinez</h3>
+   <p class="alt-text">Katie Jobson</p>
+   <p class="alt-text">Billy Mitchell</p>
+   <p class="alt-text">Helen Schmidt</p>
+   <p class="alt-text">Steven Martinez</p>
 
 </div>
 
@@ -113,8 +113,8 @@ permalink: /
 
 <div style="text-align: center;"> 
 
-   <h3 class="alt-text">Haroon Popal</h3>
-   <h3 class="alt-text">Liz Beard</h3>
+   <p class="alt-text">Haroon Popal</p>
+   <p class="alt-text">Liz Beard</p>
 
 </div>
 
