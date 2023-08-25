@@ -62,10 +62,9 @@ body{
 
   .image-text {
     position: absolute; /* Positioned absolutely inside the container */
-    bottom: 0; /* Place at the bottom of the container */
+    bottom: -.2; /* Place at the bottom of the container */
     left: .5; /* Align with the center of the container */
     width: 100%; /* Take the full width of the container */
-    background-color: rgba(255, 255, 255, 0); /* Add a semi-transparent background */
     padding: 5px; /* Add some padding for readability */
   }
 
