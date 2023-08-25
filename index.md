@@ -70,31 +70,46 @@ permalink: /
 
 <h2 style="text-align: center;">Current Board</h2>
 <div style="text-align: center;">   
-   <a href="https://kjobson-neuro.github.io/"> 
-	<img src="/assets/images/KatieJobson.jpg" alt="Katie Jobson" style="margin: 10px 15px 00px 15px;" width="150"/>
-   </a>
-   <a href="https://wj-mitchell.github.io"> 
-	<img src="/assets/images/BillyMitchell.jpg" alt="Billy Mitchell" style="margin: 10px 15px 00px 15px;" width="150"/>
-   </a>
-   <a href="https://hschmidt12.github.io/"> 
-	<img src="/assets/images/HelenSchmidt.jpg" alt="Helen Schmidt" style="margin: 10px 15px 00px 15px;" width="150"/>
-   </a>
-   <a href="https://www.researchgate.net/scientific-contributions/Steven-A-Martinez-2159311354"> 
-	<img src="/assets/images/StevenMartinez.jpg" alt="Steven Martinez" style="margin: 10px 15px 00px 15px;" width="150"/>
-   </a>
-   <h3 style="text-align: center;">Katie Jobson   Billy Mitchell   Helen Schmidt    Steven Martinez</h3>
-
+   <div class="image-container">
+      <a href="https://kjobson-neuro.github.io/"> 
+      <img src="/assets/images/KatieJobson.jpg" alt="Katie Jobson" style="margin: 10px 15px 00px 15px;" width="150"/>
+      </a>
+      <h3 class="alt-text">Katie Jobson</h3>
+   </div>
+   <div class="image-container">
+      <a href="https://wj-mitchell.github.io"> 
+      <img src="/assets/images/BillyMitchell.jpg" alt="Billy Mitchell" style="margin: 10px 15px 00px 15px;" width="150"/>
+      </a>
+      <h3 class="alt-text">Billy Mitchell</h3>
+   </div>
+   <div class="image-container">      
+      <a href="https://hschmidt12.github.io/"> 
+      <img src="/assets/images/HelenSchmidt.jpg" alt="Helen Schmidt" style="margin: 10px 15px 00px 15px;" width="150"/>
+      </a>
+      <h3 class="alt-text">Helen Schmidt</h3>
+   </div>
+   <div class="image-container">      
+      <a href="https://www.researchgate.net/scientific-contributions/Steven-A-Martinez-2159311354"> 
+      <img src="/assets/images/StevenMartinez.jpg" alt="Steven Martinez" style="margin: 10px 15px 00px 15px;" width="150"/>
+      </a>
+      <h3 class="alt-text">Steven Martinez</h3>
+   </div>
 </div>
 
 <h2 style="text-align: center;">Founders</h2>
 <div style="text-align: center;">
-   <a href="https://hspopal.github.io/"> 
-	<img src="/assets/images/HaroonPopal.png" alt="Haroon Popal" style="margin: 10px 15px 00px 15px;" width="150"/>
-   </a>
-   <a href="https://www.fox.temple.edu/about-fox/directory/liz-beard/"> 
-	<img src="/assets/images/LizBeard.jpg" alt="Liz Beard" style="margin: 10px 15px 00px 15px;" width="150"/>
-   </a>
-   <h3 style="text-align: center;">Haroon Popal   Liz Beard</h3>   
+   <div class="image-container"> 
+      <a href="https://hspopal.github.io/"> 
+      <img src="/assets/images/HaroonPopal.png" alt="Haroon Popal" style="margin: 10px 15px 00px 15px;" width="150"/>
+      </a>
+      <h3 class="alt-text">Haroon Popal</h3>
+   </div>
+   <div class="image-container"> 
+      <a href="https://www.fox.temple.edu/about-fox/directory/liz-beard/"> 
+      <img src="/assets/images/LizBeard.jpg" alt="Liz Beard" style="margin: 10px 15px 00px 15px;" width="150"/>
+      </a>
+      <h3 class="alt-text">Liz Beard</h3>
+   </div>
 </div>
 
 <h1 style="text-align: center;">Tutorials</h1>
