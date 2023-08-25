@@ -50,4 +50,31 @@ body{
     margin-top: 10px;
   }
 
+  .image-container {
+    position: relative; /* Relative positioning for absolute positioning inside */
+    display: inline-block; /* Display inline, so text stays underneath */
+  }
+
+  .image-container img {
+    max-width: 100%; /* Ensure the image doesn't overflow the container */
+    height: auto; /* Maintain aspect ratio */
+  }
+
+  .image-text {
+    position: absolute; /* Positioned absolutely inside the container */
+    bottom: 0; /* Place at the bottom of the container */
+    left: .5; /* Align with the center of the container */
+    width: 100%; /* Take the full width of the container */
+    background-color: rgba(255, 255, 255, 0); /* Add a semi-transparent background */
+    padding: 5px; /* Add some padding for readability */
+  }
+
+  .name-list {
+    columns: 4;
+    text-align: center;
+  }
+  .name-list ul {
+    list-style: none;
+  }
+
 @import "jekyll-theme-cayman";
