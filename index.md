@@ -30,7 +30,7 @@ permalink: /
 
 <h1 style="text-align: center;">Office Hours</h1>
   <p style="text-align: center;"></p>
-<p style="text-align: justify;">Office Hours are held both in-person and virtually on a weekly basis during the school as a means for individuals to seek support and guidance for coding related questions that they've encountered. You can attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/97809988629"><strong>zoom</strong></a>.</p>
+<p style="text-align: justify;">Office Hours are held both in-person and virtually on a weekly basis during the school as a means for individuals to seek support and guidance for coding related questions that they've encountered. Office hours during the Spring 2024 semester are scheduled <strong>Wednesdays from 01:00pm to 02:00pm EST</strong>. You can attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/97809988629"><strong>zoom</strong></a>.</p>
 
 <h1 style="text-align: center;">COG Personnel</h1>
 
