@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Temple University</br> Coding Outreach Group
+title: Temple University Coding Outreach Group
 nav_order: 1
 has_children: false
 permalink: /
@@ -31,8 +31,9 @@ permalink: /
    </a>
    </div>
 
-
-<div style="border: 5px dotted; padding:30px;">
+  
+   
+<div style="border: 5px dotted; padding:8px;">
 
 <h1 style="text-align: center;">Summer Workshop Series</h1>
   <p style="text-align: center;"></p>
