@@ -32,7 +32,7 @@ permalink: /
    </div>
 
 
-<div style="border: 5px dotted; padding:10px;">
+<div style="border: 5px dotted; padding:30px;">
 
 <h1 style="text-align: center;">Summer Workshop Series</h1>
   <p style="text-align: center;"></p>
