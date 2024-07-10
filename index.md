@@ -12,25 +12,32 @@ permalink: /
    <p style="text-align: center;">To contact the board, send us an email. To contact our 150+ member community, join our slack channel. To stay up to date, join our google groups. To enter our office hours, join our zoom room. To access our content, check our youtube channel.</p>
    <div style="text-align: center;">
       <a href="mailto:coding.outreach.group@gmail.com"> 
-      <img src="/assets/images/email_BW.png" alt="Email Us" align="middle" style="margin: 10px 40px 10px 40px;"  width="80"/>
+      <img src="/assets/images/email_BW.png" alt="Email Us" align="middle" style="margin: 10px 40px 10px 40px;"  width="60"/>
    </a>
    <a href="https://tucodingoutreachgroup.slack.com/"> 
-      <img src="/assets/images/slack_Color.png" alt="Join Our Slack" align="middle" style="margin: 10px 40px 10px 40px;"  width="80"/>
+      <img src="/assets/images/slack_Color.png" alt="Join Our Slack" align="middle" style="margin: 10px 40px 10px 40px;"  width="60"/>
    </a>
    <a href="https://groups.google.com/forum/#!forum/coding-outreach-group/join"> 
-      <img src="/assets/images/groups_Color.png" alt="Join Our Google Groups" align="middle" style="margin: 10px 40px 10px 40px;"  width="80"/>
+      <img src="/assets/images/groups_Color.png" alt="Join Our Google Groups" align="middle" style="margin: 10px 40px 10px 40px;"  width="60"/>
    </a>
    <a href="https://temple.zoom.us/j/97809988629"> 
-      <img src="/assets/images/zoom_Color.png" alt="Office Hour Zoom Room" align="middle" style="margin: 10px 40px 10px 40px;"  width="80"/>
+      <img src="/assets/images/zoom_Color.png" alt="Office Hour Zoom Room" align="middle" style="margin: 10px 40px 10px 40px;"  width="60"/>
    </a>
       <a href="https://www.youtube.com/channel/UCkTnWhGsF8eiLOPl2CHHeIA"> 
-      <img src="/assets/images/youtube_Color.png" alt="Subscribe to our Youtube Channel" align="middle" style="margin: 10px 40px 10px 40px;"  width="80"/>
+      <img src="/assets/images/youtube_Color.png" alt="Subscribe to our Youtube Channel" align="middle" style="margin: 10px 40px 10px 40px;"  width="60"/>
+   </a>
+      <a href="https://github.com/TU-Coding-Outreach-Group"> 
+      <img src="/assets/images/github_BW.png" alt="Check out our Github account" align="middle" style="margin: 10px 40px 10px 40px;"  width="60"/>
    </a>
    </div>
 
+<h1 style="text-align: center;">Summer Workshop Series</h1>
+  <p style="text-align: center;"></p>
+<p style="text-align: justify;">Our hands-on summer workshop series is underway with tutorials every Wednesday (01:00pm) between July 10th and August 07th. These workshops will be hosted exclusively on <a href="https://temple.zoom.us/j/92687391019"><strong>zoom (ID: 926 8739 1019)</strong></a> and the materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2024/blob/master/README.md"><strong>Github repository</strong></a>. If you're new to coding or having trouble navigating Github, consider checking out <a href="https://blog.hubspot.com/website/download-from-github"><strong>this tutorial on pulling files from repositories</strong></a>.</p>
+
 <h1 style="text-align: center;">Office Hours</h1>
   <p style="text-align: center;"></p>
-<p style="text-align: justify;">Office Hours are held both in-person and virtually on a weekly basis during the school as a means for individuals to seek support and guidance for coding related questions that they've encountered. Office hours during the Spring 2024 semester are scheduled <strong>Wednesdays from 01:00pm to 02:00pm EST</strong>. You can attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/97809988629"><strong>zoom</strong></a>.</p>
+<p style="text-align: justify;">Office Hours are held both in-person and virtually on a weekly basis during the school year as a means for individuals to seek support and guidance for coding related questions that they've encountered. We pause office hours during the summer months, but those with questions are still encouraged to seek assistance from our <a href="https://tucodingoutreachgroup.slack.com/"><strong>slack community</strong></a>.</p>
 
 <h1 style="text-align: center;">COG Personnel</h1>
 
@@ -44,14 +51,18 @@ permalink: /
       <li>Susan Benear</li>
       <li>Iva Brunec</li>
       <li>Michelle Chiu</li>
-      <li>Jeff Dennison</li> 
+      <li>Jeff Dennison</li>
+      <li>Jeremy Haynes</li> 
       <li>Camille Johnston</li>
+      <li>Melanie Kos</li>
+      <li>Bin Li</li>
       <li>Celia Litovsty</li>  
       <li>Matt Mattoni</li>    
       <li>Kim Nguyen</li>
       <li>Beth Smedley</li>
       <li>Büşra Tanrıverdi</li>   
       <li>Ginny Ulichney</li>
+      <li>Sarah Weinstein</li>
       <li>Craig Williams</li>  
       <li>Cristina Wilson</li>
       <li>V.S. Vaidyanathan</li> 
@@ -122,10 +133,14 @@ permalink: /
 <h1 style="text-align: center;">Summer Workshops</h1>
 <p style="text-align: justify;">Workshops focus on a specific research skill or topic and aim to have participants actively involved. These workshops try to be as hands-on as possible with the goal of teaching new skills and techniques to people who already have some coding experience.</p>
 
+### **[2024](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2024/blob/master/README.md)**
+Topics: Machine Learning for Text Analysis in R, Representational Similarity Analysis in R, Metropolis Markov Chain Monte Carlo in R, Network Enrichment Significance Testing,  Geospatial Analysis & Cartography in R
+
+ 
 ### **[2023](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023/blob/master/README.md)**
-Topics: GIMME, Intro to Machine Learning in Python, Intro to jsPsych, Building Functions & Iterating in R,  Intro to Item Response Theory, Text Analysis in R, Dyadic Analysis in R, Intro to SQL 
+Topics: GIMME, Intro to Machine Learning in Python, Intro to jsPsych, Building Functions & Iterating in R, Text Analysis in R, Dyadic Analysis in R, Intro to SQL 
 
-
+ 
 ### **[2022](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2022/blob/master/README.md)**
 Topics: Git/Github Pages, Data Wrangling in R, Data visualization in R, Neuroimaging in Python, PsychoPy, Representational similarity analysis in R, Natural Language Processing, Javascript Integration with Qualtrics 
 
@@ -172,3 +187,6 @@ Topics: Jupyter Notebook, Git/Github, Using publicly available datasets, Plottin
 <!-- ------------------------ SUMMER OFFICE HOURS MESSAGE ----------------------------- -->
 
 <!-- <p style="text-align: justify;">Office Hours are held both in-person and virtually on a weekly basis during the school as a means for individuals to seek support and guidance for coding related questions that they've encountered. We pause office hours during the summer months, but those with questions are still encouraged to seek assistance from our <a href="https://tucodingoutreachgroup.slack.com/"><strong>slack community</strong></a>.</p> -->
+
+<!-- ------------------------ SCHOOL YEAR OFFICE HOURS MESSAGE ----------------------------- -->
+<!-- <p style="text-align: justify;">Office Hours are held both in-person and virtually on a weekly basis during the school as a means for individuals to seek support and guidance for coding related questions that they've encountered. Office hours during the Spring 2024 semester are scheduled <strong>Wednesdays from 01:00pm to 02:00pm EST</strong>. You can attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/97809988629"><strong>zoom</strong></a>.</p> -->
