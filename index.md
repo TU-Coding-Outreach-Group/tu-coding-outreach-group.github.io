@@ -12,28 +12,33 @@ permalink: /
    <p style="text-align: center;">To contact the board, send us an email. To contact our 150+ member community, join our slack channel. To stay up to date, join our google groups. To enter our office hours, join our zoom room. To access our content, check our youtube channel.</p>
    <div style="text-align: center;">
       <a href="mailto:coding.outreach.group@gmail.com"> 
-      <img src="/assets/images/email_BW.png" alt="Email Us" align="middle" style="margin: 10px 40px 10px 40px;"  width="60"/>
+      <img src="/assets/images/email_BW.png" alt="Email Us" align="middle" style="margin: 10px 40px 10px 40px;"  width="40"/>
    </a>
    <a href="https://tucodingoutreachgroup.slack.com/"> 
-      <img src="/assets/images/slack_Color.png" alt="Join Our Slack" align="middle" style="margin: 10px 40px 10px 40px;"  width="60"/>
+      <img src="/assets/images/slack_Color.png" alt="Join Our Slack" align="middle" style="margin: 10px 40px 10px 40px;"  width="40"/>
    </a>
    <a href="https://groups.google.com/forum/#!forum/coding-outreach-group/join"> 
-      <img src="/assets/images/groups_Color.png" alt="Join Our Google Groups" align="middle" style="margin: 10px 40px 10px 40px;"  width="60"/>
+      <img src="/assets/images/groups_Color.png" alt="Join Our Google Groups" align="middle" style="margin: 10px 40px 10px 40px;"  width="40"/>
    </a>
    <a href="https://temple.zoom.us/j/97809988629"> 
-      <img src="/assets/images/zoom_Color.png" alt="Office Hour Zoom Room" align="middle" style="margin: 10px 40px 10px 40px;"  width="60"/>
+      <img src="/assets/images/zoom_Color.png" alt="Office Hour Zoom Room" align="middle" style="margin: 10px 40px 10px 40px;"  width="40"/>
    </a>
       <a href="https://www.youtube.com/channel/UCkTnWhGsF8eiLOPl2CHHeIA"> 
-      <img src="/assets/images/youtube_Color.png" alt="Subscribe to our Youtube Channel" align="middle" style="margin: 10px 40px 10px 40px;"  width="60"/>
+      <img src="/assets/images/youtube_Color.png" alt="Subscribe to our Youtube Channel" align="middle" style="margin: 10px 40px 10px 40px;"  width="40"/>
    </a>
       <a href="https://github.com/TU-Coding-Outreach-Group"> 
-      <img src="/assets/images/github_BW.png" alt="Check out our Github account" align="middle" style="margin: 10px 40px 10px 40px;"  width="60"/>
+      <img src="/assets/images/github_BW.png" alt="Check out our Github account" align="middle" style="margin: 10px 40px 10px 40px;"  width="40"/>
    </a>
    </div>
+
+
+<div style="border: 5px dotted; padding:10px;">
 
 <h1 style="text-align: center;">Summer Workshop Series</h1>
   <p style="text-align: center;"></p>
 <p style="text-align: justify;">Our hands-on summer workshop series is underway with tutorials every Wednesday (01:00pm) between July 10th and August 07th. These workshops will be hosted exclusively on <a href="https://temple.zoom.us/j/92687391019"><strong>zoom (ID: 926 8739 1019)</strong></a> and the materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2024/blob/master/README.md"><strong>Github repository</strong></a>. If you're new to coding or having trouble navigating Github, consider checking out <a href="https://blog.hubspot.com/website/download-from-github"><strong>this tutorial on pulling files from repositories</strong></a>.</p>
+
+</div>
 
 <h1 style="text-align: center;">Office Hours</h1>
   <p style="text-align: center;"></p>
