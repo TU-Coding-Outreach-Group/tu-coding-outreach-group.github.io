@@ -31,7 +31,7 @@ permalink: /
    </a>
    </div>
   
-  <p style="text-align: center; padding:20px;"></p>
+  <p style="text-align: center; padding:80px;"></p>
 <div style="border: 5px dotted; padding:5px;">
 <h1 style="text-align: center;">Summer Workshop Series</h1>
   <p style="text-align: center;"></p>
