@@ -52,24 +52,24 @@ permalink: /
 
 <div class="name-list">
   <ul>
-      <li>Susan Benear</li>
-      <li>Iva Brunec</li>
-      <li>Michelle Chiu</li>
-      <li>Jeff Dennison</li>
-      <li>Jeremy Haynes</li> 
-      <li>Camille Johnston</li>
-      <li>Melanie Kos</li>
-      <li>Bin Li</li>
-      <li>Celia Litovsty</li>  
-      <li>Matt Mattoni</li>    
-      <li>Kim Nguyen</li>
-      <li>Beth Smedley</li>
-      <li>Büşra Tanrıverdi</li>   
-      <li>Ginny Ulichney</li>
-      <li>Sarah Weinstein</li>
-      <li>Craig Williams</li>  
-      <li>Cristina Wilson</li>
-      <li>V.S. Vaidyanathan</li> 
+      <li><a href="https://sites.google.com/view/susanbenear/home">Susan Benear</a></li>
+      <li><a href="https://ivabrunec.github.io/">Iva Brunec</a></li>
+      <li><a href="https://www.linkedin.com/in/michelle-chiu-leanmeanmishine/">Michelle Chiu</a></li>
+      <li><a href="https://www.linkedin.com/in/jeff-dennison-2a9991149/">Jeff Dennison</a></li>
+      <li><a href="https://www.linkedin.com/in/jeremy-haynes-ph-d-a250801a6/">Jeremy Haynes</a></li> 
+      <li><a href="https://www.linkedin.com/in/camille-parker-489365162/">Camille (Johnston) Parker</a></li>
+      <li><a href="https://x.com/melanieckos?lang=en">Melanie Kos</a></li>
+      <li><a href="https://www.linkedin.com/in/bin-li-9261521b3/?locale=en_US">Bin Li</a></li>
+      <li><a href="https://www.celialitovsky.com/">Celia Litovsty</a></li>  
+      <li><a href="https://twitter.com/MattMattoni">Matt Mattoni</a></li>    
+      <li><a href="https://twitter.com/kvhnguyen">Kim Nguyen</a></li>
+      <li><a href="https://x.com/ebsmed?lang=en">Beth Smedley</a></li>
+      <li><a href="https://www.linkedin.com/in/busratanriverdi/">Büşra Tanrıverdi</a></li>   
+      <li><a href="https://www.linkedin.com/in/ginny-ulichney/">Ginny Ulichney</a></li>
+      <li><a href="https://smweinst.github.io/">Sarah Weinstein</a></li>
+      <li><a href="https://www.linkedin.com/in/wcraigwilliams/">Craig Williams</a></li>  
+      <li><a href="https://www.radlab.us/people">Cristina Wilson</a></li>
+      <li><a href="https://www.fox.temple.edu/directory/vaidyanathan-viswanathan-saunak">V.S. Vaidyanathan</a></li> 
   </ul>
 </div>
 </body>
