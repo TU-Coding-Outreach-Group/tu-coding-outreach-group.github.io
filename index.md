@@ -30,11 +30,9 @@ permalink: /
       <img src="/assets/images/github_BW.png" alt="Check out our Github account" align="middle" style="margin: 10px 40px 10px 40px;"  width="40"/>
    </a>
    </div>
-
   
-   
+  <p style="text-align: center;"></p>
 <div style="border: 5px dotted; padding:8px;">
-
 <h1 style="text-align: center;">Summer Workshop Series</h1>
   <p style="text-align: center;"></p>
 <p style="text-align: justify;">Our hands-on summer workshop series is underway with tutorials every Wednesday (01:00pm) between July 10th and August 07th. These workshops will be hosted exclusively on <a href="https://temple.zoom.us/j/92687391019"><strong>zoom (ID: 926 8739 1019)</strong></a> and the materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2024/blob/master/README.md"><strong>Github repository</strong></a>. If you're new to coding or having trouble navigating Github, consider checking out <a href="https://blog.hubspot.com/website/download-from-github"><strong>this tutorial on pulling files from repositories</strong></a>.</p>
