@@ -50,7 +50,7 @@ permalink: /
       <li><a href="https://www.linkedin.com/in/jeff-dennison-2a9991149/">Jeff Dennison</a></li>
       <li><a href="https://www.linkedin.com/in/jeremy-haynes-ph-d-a250801a6/">Jeremy Haynes</a></li> 
       <li><a href="https://www.linkedin.com/in/camille-parker-489365162/">Camille (Johnston) Parker</a></li>
-      <li><a href="https://x.com/melanieckos?lang=en">Melanie Kos</a></li>
+      <!-- <li><a href="https://x.com/melanieckos?lang=en">Melanie Kos</a></li> -->
       <li><a href="https://www.linkedin.com/in/bin-li-9261521b3/?locale=en_US">Bin Li</a></li>
       <li><a href="https://www.celialitovsky.com/">Celia Litovsty</a></li>  
       <li><a href="https://twitter.com/MattMattoni">Matt Mattoni</a></li>    
