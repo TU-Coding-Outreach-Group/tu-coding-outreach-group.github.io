@@ -31,8 +31,6 @@ permalink: /
    </a>
    </div>
   
-<p style="text-align: center; padding:40px;"></p>
-
 <h1 style="text-align: center;">Office Hours</h1>
   <p style="text-align: center;"></p>
 <p style="text-align: justify;">Office Hours are held both in-person and virtually on a weekly basis during the school as a means for individuals to seek support and guidance for coding related questions that they've encountered. Office hours during the Fall 2024 semester are scheduled <strong>Thursdays from 10:00am to 11:00am EST</strong>. You can attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/98175378333"><strong>zoom</strong></a>.</p>
