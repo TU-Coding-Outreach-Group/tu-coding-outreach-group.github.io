@@ -31,17 +31,11 @@ permalink: /
    </a>
    </div>
   
-  <p style="text-align: center; padding:40px;"></p>
-<div style="border: 10px dotted; padding:10px;">
-<h1 style="text-align: center;">Summer Workshop Series</h1>
-  <p style="text-align: center;"></p>
-<p style="text-align: justify;">Our hands-on summer workshop series is underway with tutorials every Wednesday (01:00pm) between July 10th and August 07th. These workshops will be hosted exclusively on <a href="https://temple.zoom.us/j/92687391019"><strong>zoom (ID: 926 8739 1019)</strong></a> and the materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2024/blob/master/README.md"><strong>Github repository</strong></a>. If you're new to coding or having trouble navigating Github, consider checking out <a href="https://blog.hubspot.com/website/download-from-github"><strong>this tutorial on pulling files from repositories</strong></a>.</p>
-
-</div>
+<p style="text-align: center; padding:40px;"></p>
 
 <h1 style="text-align: center;">Office Hours</h1>
   <p style="text-align: center;"></p>
-<p style="text-align: justify;">Office Hours are held both in-person and virtually on a weekly basis during the school year as a means for individuals to seek support and guidance for coding related questions that they've encountered. We pause office hours during the summer months, but those with questions are still encouraged to seek assistance from our <a href="https://tucodingoutreachgroup.slack.com/"><strong>slack community</strong></a>.</p>
+<p style="text-align: justify;">Office Hours are held both in-person and virtually on a weekly basis during the school as a means for individuals to seek support and guidance for coding related questions that they've encountered. Office hours during the Fall 2024 semester are scheduled <strong>Thursdays from 10:00am to 11:00am EST</strong>. You can attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/98175378333"><strong>zoom</strong></a>.</p>
 
 <h1 style="text-align: center;">COG Personnel</h1>
 
@@ -77,20 +71,6 @@ permalink: /
 <h2 style="text-align: center;">Current Board</h2>
 <div style="text-align: center;">   
    <div class="image-container">
-      <a href="https://kjobson-neuro.github.io/"> 
-      <img src="/assets/images/KatieJobson.jpg" alt="Katie Jobson" style="margin: 10px 15px 00px 15px;" width="150"/>
-      </a>
-      <div class="image-text">Katie Jobson</div>
-   </div>
-
-   <div class="image-container">
-      <a href="https://wj-mitchell.github.io"> 
-      <img src="/assets/images/BillyMitchell.jpg" alt="Billy Mitchell" style="margin: 10px 15px 00px 15px;" width="150"/>
-      </a>
-      <div class="image-text">Billy Mitchell</div>
-   </div>
-
-   <div class="image-container">
       <a href="https://hschmidt12.github.io/"> 
       <img src="/assets/images/HelenSchmidt.jpg" alt="Helen Schmidt" style="margin: 10px 15px 00px 15px;" width="150"/>
       </a>
@@ -104,7 +84,22 @@ permalink: /
       <div class="image-text">Steven Martinez</div>
    </div>
 </div>
+<h2 style="text-align: center;">Former Board</h2>
+<div style="text-align: center;">   
+   <div class="image-container">
+      <a href="https://kjobson-neuro.github.io/"> 
+      <img src="/assets/images/KatieJobson.jpg" alt="Katie Jobson" style="margin: 10px 15px 00px 15px;" width="150"/>
+      </a>
+      <div class="image-text">Katie Jobson</div>
+   </div>
 
+   <div class="image-container">
+      <a href="https://wj-mitchell.github.io"> 
+      <img src="/assets/images/BillyMitchell.jpg" alt="Billy Mitchell" style="margin: 10px 15px 00px 15px;" width="150"/>
+      </a>
+      <div class="image-text">Billy Mitchell</div>
+   </div>
+</div>
 <h2 style="text-align: center;">Founders</h2>
 <div style="text-align: center;">
 
@@ -157,7 +152,7 @@ Topics: Jupyter Notebook, Git/Github, Psychopy, Neuroimaging in python, Data vis
 Topics: Jupyter Notebook, Git/Github, Using publicly available datasets, Plotting data in R, Psychopy, JavaScript and jsPsych, Neuroimaing in python, Representational similarity analysis
 
 <!-- ------------------------ MESSAGE GRAVEYARD ----------------------------- -->
-<!-- ------------------------ SUMMER WORKSHOPS MESSAGE ----------------------------- -->
+<!-- ------------------------ SUMMER WORKSHOPS MESSAGES ----------------------------- -->
 
 <!-- <h1 style="text-align: center;">Summer Workshop Series 2023</h1>
 
@@ -165,6 +160,14 @@ Topics: Jupyter Notebook, Git/Github, Using publicly available datasets, Plottin
 
 <!-- <p style="text-align: justify;">Our hands-on summer workshop series is underway with tutorials every Thursday (01:00pm) between June 29th and August 17th. These workshops will be hosted exclusively on <a href="https://temple.zoom.us/j/92129240531"><strong>zoom (ID: 921 292 405 31)</strong></a> and the materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023/blob/master/README.md"><strong>Github repository</strong></a>. If you're new to coding or having trouble navigating Github, consider checking out <a href="https://blog.hubspot.com/website/download-from-github"><strong>this tutorial on pulling files from repositories</strong></a>.</p> -->
 
+<!-- <div style="border: 10px dotted; padding:10px;">
+<h1 style="text-align: center;">Summer Workshop Series 2024</h1>
+  
+<p style="text-align: center;"></p>
+
+<p style="text-align: justify;">Our hands-on summer workshop series is underway with tutorials every Wednesday (01:00pm) between July 10th and August 07th. These workshops will be hosted exclusively on <a href="https://temple.zoom.us/j/92687391019"><strong>zoom (ID: 926 8739 1019)</strong></a> and the materials you need to follow along can be accessed in the associated <a href="https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2024/blob/master/README.md"><strong>Github repository</strong></a>. If you're new to coding or having trouble navigating Github, consider checking out <a href="https://blog.hubspot.com/website/download-from-github"><strong>this tutorial on pulling files from repositories</strong></a>.</p>
+
+</div> -->
 
 <!------------------ STRIKE MESSAGE ; leaving it in the code in case admin gets dumb again --------------------------->
 
