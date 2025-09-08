@@ -69,22 +69,25 @@ permalink: /
 <h2 style="text-align: center;">Current Board</h2>
 <div style="text-align: center;">   
    <div class="image-container">
-      <img src="/assets/images/LindaHoffman_updated.png" alt="Linda Hoffman" style="margin: 10px 15px 00px 15px; height: 150px;" width="150"/>
+      <img src="/assets/images/LindHoffman_updated.png" alt="Linda Hoffman" style="margin: 10px 15px 00px 15px; width:150"/>
       <div class="image-text">Linda Hoffman</div>
    </div>
+
    <div class="image-container">
-      <img src="/assets/images/RonanCunningham.png" alt="Ronan Cunningham" style="margin: 10px 15px 00px 15px; height: 150px;" width="150"/>
+      <img src="/assets/images/RonanCunningham.png" alt="Ronan Cunningham" style="margin: 10px 15px 00px 15px; width:150"/>
       <div class="image-text">Ronan Cunningham</div>
    </div>
+   
    <div class="image-container">
       <a href="https://hschmidt12.github.io/"> 
-      <img src="/assets/images/HelenSchmidt.jpg" alt="Helen Schmidt" style="margin: 10px 15px 00px 15px; height: 150px;" width="150"/>
+      <img src="/assets/images/HelenSchmidt.jpg" alt="Helen Schmidt" style="margin: 10px 15px 00px 15px; width:150"/>
       </a>
       <div class="image-text">Helen Schmidt</div>
    </div>
+
    <div class="image-container">
       <a href="https://www.researchgate.net/scientific-contributions/Steven-A-Martinez-2159311354"> 
-      <img src="/assets/images/StevenMartinez.jpg" alt="Steven Martinez" style="margin: 10px 15px 00px 15px; height: 150px;" width="150"/>
+      <img src="/assets/images/StevenMartinez.jpg" alt="Steven Martinez" style="margin: 10px 15px 00px 15px; width:150"/>
       </a>
       <div class="image-text">Steven Martinez</div>
    </div>
