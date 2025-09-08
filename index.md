@@ -69,12 +69,16 @@ permalink: /
 <h2 style="text-align: center;">Current Board</h2>
 <div style="text-align: center;">   
    <div class="image-container">
-      <img src="/assets/images/LindaHoffman_updated.png" alt="Linda Hoffman" style="margin: 10px 15px 00px 15px;" width="150"/>
+      <a href="https://kjobson-neuro.github.io/"> 
+      <img src="/assets/images/LindaHoffman.png" alt="Linda Hoffman" style="margin: 10px 15px 00px 15px;" width="150"/>
+      </a>
       <div class="image-text">Linda Hoffman</div>
    </div>
 
    <div class="image-container">
+      <a href="https://kjobson-neuro.github.io/"> 
       <img src="/assets/images/RonanCunningham.png" alt="Ronan Cunningham" style="margin: 10px 15px 00px 15px;" width="150"/>
+      </a>
       <div class="image-text">Ronan Cunningham</div>
    </div>
    
