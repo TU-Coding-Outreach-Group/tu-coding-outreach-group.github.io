@@ -33,7 +33,7 @@ permalink: /
   
 <h1 style="text-align: center;">Office Hours</h1>
   <p style="text-align: center;"></p>
-<p style="text-align: justify;">Office Hours are held both in-person and virtually on a weekly basis during the school as a means for individuals to seek support and guidance for coding related questions that they've encountered. Additionally, <strong>Tom Olino</strong> will be joining us starting this semester to offer guidance for any <strong>statistics related questions</strong> as well! Office hours during the Fall 2025 semester are scheduled <strong>Thursdays from 2:00PM to 3:00PM EST</strong>. You can attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/98175378333"><strong>zoom</strong></a>.</p>
+<p style="text-align: justify;">Office Hours are held both in-person and virtually on a weekly basis during the school as a means for individuals to seek support and guidance for coding related questions that they've encountered. Office hours during the <strong>Fall 2025 semester</strong> are scheduled <strong>Thursdays from 2:00PM to 3:00PM EST</strong>. You can attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/98175378333"><strong>zoom</strong></a>.</p>
 
 <h1 style="text-align: center;">COG Personnel</h1>
 
