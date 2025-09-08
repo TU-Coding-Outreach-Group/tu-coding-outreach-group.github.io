@@ -75,6 +75,7 @@ permalink: /
 
    <div class="image-container">
       <img src="/assets/images/RonanCunningham.jpg" alt="Ronan Cunningham" style="margin: 10px 15px 00px 15px; height: 150px; width: 150px"/>
+      <div class="image-text">Ronan Cunningham</div>
    </div>
    
    <div class="image-container">
