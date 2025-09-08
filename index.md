@@ -20,7 +20,7 @@ permalink: /
    <a href="https://groups.google.com/forum/#!forum/coding-outreach-group/join"> 
       <img src="/assets/images/groups_Color.png" alt="Join Our Google Groups" align="middle" style="margin: 10px 40px 10px 40px;"  width="50"/>
    <!-- </a>
-   <a href="https://temple.zoom.us/j/97809988629"> 
+   <a href="https://temple.zoom.us/j/98175378333"> 
       <img src="/assets/images/zoom_Color.png" alt="Office Hour Zoom Room" align="middle" style="margin: 10px 40px 10px 40px;"  width="50"/> -->
    </a>
       <a href="https://www.youtube.com/channel/UCkTnWhGsF8eiLOPl2CHHeIA"> 
@@ -33,7 +33,7 @@ permalink: /
   
 <h1 style="text-align: center;">Office Hours</h1>
   <p style="text-align: center;"></p>
-<p style="text-align: justify;">Office Hours are held both in-person and virtually on a weekly basis during the school as a means for individuals to seek support and guidance for coding related questions that they've encountered. Additionally, <strong>Tom Olino</strong> will be joining us starting this semester to offer guidance for any <strong>statistics related questions</strong> as well! Office hours during the Fall 2024 semester are scheduled <strong>Thursdays from 10:00am to 11:00am EST</strong>. You can attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/98175378333"><strong>zoom</strong></a>.</p>
+<p style="text-align: justify;">Office Hours are held both in-person and virtually on a weekly basis during the school as a means for individuals to seek support and guidance for coding related questions that they've encountered. Additionally, <strong>Tom Olino</strong> will be joining us starting this semester to offer guidance for any <strong>statistics related questions</strong> as well! Office hours during the Fall 2025 semester are scheduled <strong>Thursdays from 2:00PM to 3:00PM EST</strong>. You can attend in-person (Weiss 645) or via <a href="https://temple.zoom.us/j/98175378333"><strong>zoom</strong></a>.</p>
 
 <h1 style="text-align: center;">COG Personnel</h1>
 
@@ -68,6 +68,17 @@ permalink: /
 
 <h2 style="text-align: center;">Current Board</h2>
 <div style="text-align: center;">   
+   <div class="image-container">
+      <img src="/assets/images/LindHoffman.png" alt="Linda Hoffman" style="margin: 10px 15px 00px 15px;" width="150"/>
+      </a>
+      <div class="image-text">Linda Hoffman</div>
+   </div>
+
+   <div class="image-container">
+      <img src="/assets/images/RonanCunningham.png" alt="Ronan Cunningham" style="margin: 10px 15px 00px 15px;" width="150"/>
+      </a>
+      <div class="image-text">Ronan Cunningham</div>
+   </div>
    <div class="image-container">
       <a href="https://hschmidt12.github.io/"> 
       <img src="/assets/images/HelenSchmidt.jpg" alt="Helen Schmidt" style="margin: 10px 15px 00px 15px;" width="150"/>
