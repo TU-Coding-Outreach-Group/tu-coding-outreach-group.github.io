@@ -50,6 +50,11 @@ body{
     margin-top: 10px;
   }
 
+  /* ADDED: Increases the max-width of the main content area to accommodate more items horizontally. */
+  .main-content {
+    max-width: 950px; 
+  }
+  
   .image-container {
     position: relative; /* Relative positioning for absolute positioning inside */
     display: inline-block; /* Display inline, so text stays underneath */
