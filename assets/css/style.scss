@@ -50,44 +50,23 @@ body{
     margin-top: 10px;
   }
 
-  /* --- NEW/UPDATED STYLES FOR BOARD LAYOUT (Flexbox) --- */
-
-  /* Container for the entire row of board images */
-  .board-container {
-      display: flex;
-      justify-content: center; /* Center the entire row of images */
-      flex-wrap: wrap; /* Allow wrapping onto new lines */
-      gap: 30px; /* Add space between items */
-      max-width: 900px; /* Constraint to help force the wrap, adjust as needed */
-      margin: 0 auto; /* Center the entire board-container */
-  }
-
-  /* Container for each image and name */
   .image-container {
-      display: flex; /* Make image container a flex container to stack image and text */
-      flex-direction: column; /* Stack the items vertically (image on top, text on bottom) */
-      align-items: center; /* Center the image and text horizontally within its container */
-      text-align: center;
-      /* Set a specific width to fit 3 in a row (e.g., 3 * 150px image + margin/gap) */
-      width: 180px; 
-      margin-bottom: 20px; /* Add vertical space between rows */
+    position: relative; /* Relative positioning for absolute positioning inside */
+    display: inline-block; /* Display inline, so text stays underneath */
   }
 
   .image-container img {
-      max-width: 150px; 
-      height: 150px; 
-      width: 150px; 
+    max-width: 100%; /* Ensure the image doesn't overflow the container */
+    height: auto; /* Maintain aspect ratio */
   }
 
   .image-text {
-      /* Remove absolute positioning, allowing text to flow below the image */
-      padding: 2px;
-      margin-top: 5px; /* Small space between image and name */
-      font-size: 1em; 
-      width: 100%; /* Ensure text uses full width of its container */
+    position: absolute; /* Positioned absolutely inside the container */
+    bottom: -.1; /* Place at the bottom of the container */
+    left: .5; /* Align with the center of the container */
+    width: 100%; /* Take the full width of the container */
+    padding: 2px; /* Add some padding for readability */
   }
-
-  /* --- END NEW/UPDATED STYLES --- */
 
   .name-list {
     columns: 4;
