@@ -50,37 +50,37 @@ body{
     margin-top: 10px;
   }
 
-  /* ADDED: Increases the max-width of the main content area to accommodate more items horizontally. */
+  /* Increased max-width to accommodate 5 board members in one row */
   .main-content {
     max-width: 1200px; 
   }
 
-/* FIX: Reduce horizontal margin and set a container width to control wrapping */
+  /* Optimized container for horizontal layout */
   .image-container {
     position: relative; 
     display: inline-block;
-    width: 170px; /* Set a fixed width to contain the 150px image plus a small margin/padding */
-    text-align: center; /* Center the image within this container */
+    width: 170px;
+    text-align: center;
+    margin: 10px 10px 30px 10px !important; /* Added bottom margin for spacing between rows, override inline styles */
+    vertical-align: top; /* Align containers at the top */
   }
 
-  /* This targets the images inside the container */
+  /* Image styling */
   .image-container img {
     max-width: 100%; 
     height: auto; 
-    /* The 15px inline margin is still being applied from index.md. 
-       We will try to override it here to minimize space. */
-    margin: 10px 5px 0px 5px !important; /* !important is used to override the inline style in index.md */
+    margin: 0 !important; /* Remove margin from images, let container handle spacing */
     width: 150px;
     height: 150px;
   }
   
+  /* Text below images */
   .image-text {
-    position: absolute; 
-    bottom: -.1; 
-    left: 0; /* Change 'left: .5;' to 'left: 0;' and use text-align: center to center text reliably */
+    position: relative; /* Changed from absolute to relative for better text flow */
     width: 100%; 
-    padding: 2px;
-    text-align: center; /* Center the text inside the absolute box */
+    padding: 5px 0;
+    text-align: center;
+    margin-top: 5px;
   }
 
   .name-list {
