@@ -55,22 +55,32 @@ body{
     max-width: 1050px; 
   }
 
+/* FIX: Reduce horizontal margin and set a container width to control wrapping */
   .image-container {
-    position: relative; /* Relative positioning for absolute positioning inside */
-    display: inline-block; /* Display inline, so text stays underneath */
+    position: relative; 
+    display: inline-block;
+    width: 170px; /* Set a fixed width to contain the 150px image plus a small margin/padding */
+    text-align: center; /* Center the image within this container */
   }
 
+  /* This targets the images inside the container */
   .image-container img {
-    max-width: 100%; /* Ensure the image doesn't overflow the container */
-    height: auto; /* Maintain aspect ratio */
+    max-width: 100%; 
+    height: auto; 
+    /* The 15px inline margin is still being applied from index.md. 
+       We will try to override it here to minimize space. */
+    margin: 10px 5px 0px 5px !important; /* !important is used to override the inline style in index.md */
+    width: 150px;
+    height: 150px;
   }
-
+  
   .image-text {
-    position: absolute; /* Positioned absolutely inside the container */
-    bottom: -.1; /* Place at the bottom of the container */
-    left: .5; /* Align with the center of the container */
-    width: 100%; /* Take the full width of the container */
-    padding: 2px; /* Add some padding for readability */
+    position: absolute; 
+    bottom: -.1; 
+    left: 0; /* Change 'left: .5;' to 'left: 0;' and use text-align: center to center text reliably */
+    width: 100%; 
+    padding: 2px;
+    text-align: center; /* Center the text inside the absolute box */
   }
 
   .name-list {
