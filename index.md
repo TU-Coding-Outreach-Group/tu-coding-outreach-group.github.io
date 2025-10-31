@@ -69,6 +69,11 @@ permalink: /
 <h2 style="text-align: center;">Current Board</h2>
 <div style="text-align: center;">   
    <div class="image-container">
+      <img src="/assets/images/ShawnWang.jpg" alt="Linda Hoffman" style="margin: 10px 15px 00px 15px; height: 150px;" width="150"/>
+      <div class="image-text">Shawn Wang</div>
+   </div>
+
+   <div class="image-container">
       <img src="/assets/images/LindaHoffman.jpg" alt="Linda Hoffman" style="margin: 10px 15px 00px 15px; height: 150px;" width="150"/>
       <div class="image-text">Linda Hoffman</div>
    </div>
